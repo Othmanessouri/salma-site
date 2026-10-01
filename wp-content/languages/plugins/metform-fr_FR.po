@@ -1,0 +1,4379 @@
+# Translation of Plugins - MetForm &#8211; Contact Form, Survey, Quiz, Conditional Forms, Form Templates &amp; Custom Form Builder for Elementor - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - MetForm &#8211; Contact Form, Survey, Quiz, Conditional Forms, Form Templates &amp; Custom Form Builder for Elementor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-09-29 12:25:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.1.0\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - MetForm &#8211; Contact Form, Survey, Quiz, Conditional Forms, Form Templates &amp; Custom Form Builder for Elementor - Stable (latest release)\n"
+
+#: widgets/file-upload/file-upload.php:213
+msgid ".webp"
+msgstr ".webp"
+
+#: core/forms/views/modal-editor.php:732
+msgid "Integrate google drive file upload"
+msgstr "Intégrer le téléversement de fichier Google Drive"
+
+#: core/forms/views/modal-editor.php:731
+msgid "Google Drive :"
+msgstr "Google Drive :"
+
+#: core/forms/views/modal-editor.php:725
+msgid "Google Drive folder list id"
+msgstr "ID de la liste des dossiers Google Drive"
+
+#: core/forms/views/modal-editor.php:708
+msgid "Configure Google Drive."
+msgstr "Configurer Google Drive."
+
+#: core/forms/views/modal-editor.php:708
+msgid "Integrate google drive with this form. "
+msgstr "Intégrer Google Drive à ce formulaire. "
+
+#: core/forms/views/modal-editor.php:706
+msgid "Google Drive:"
+msgstr "Google Drive :"
+
+#: core/forms/views/modal-editor.php:697
+msgid "Integrate dropbox with this form."
+msgstr "Intégrez Dropbox à ce formulaire."
+
+#: core/forms/views/modal-editor.php:691
+msgid "Dropbox list title"
+msgstr "Titre de la liste Dropbox"
+
+#: core/forms/views/modal-editor.php:682 core/forms/views/modal-editor.php:714
+msgid "Folder List:"
+msgstr "Liste des dossiers  :"
+
+#: core/forms/views/modal-editor.php:678
+msgid "Configure Dropbox."
+msgstr "Configurer Dropbox."
+
+#: core/forms/views/modal-editor.php:678
+msgid "Integrate dropbox with this form. "
+msgstr "Intégrer Dropbox à ce formulaire. "
+
+#: core/forms/views/modal-editor.php:676 core/forms/views/modal-editor.php:696
+msgid "Dropbox:"
+msgstr "Dropbox :"
+
+#: core/admin/views/settings.php:664
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: core/admin/views/settings.php:656
+msgid "Dropbox Is Exclusive To Mid Tiers!"
+msgstr "Dropbox est réservé aux niveaux intermédiaires !"
+
+#: core/admin/views/settings.php:652
+msgid "Dropbox is a premium feature—Get MetForm Pro to use it!"
+msgstr "Dropbox est une fonctionnalité premium. Procurez-vous MetForm Pro pour l’utiliser !"
+
+#: core/admin/views/settings.php:646
+msgid "Connect Your Dropbox Account"
+msgstr "Connecter votre compte Dropbox"
+
+#: core/admin/views/settings.php:638
+msgid "Click on \"Connect Your Dropbox Account\""
+msgstr "Cliquez sur « Connecter votre compte Dropbox »."
+
+#: core/admin/views/settings.php:634 core/admin/views/settings.php:691
+msgid "Check how to create App/Project On Dropbox developer account"
+msgstr "Découvrez comment créer une application/un projet sur le compte développeur/développeuse Dropbox."
+
+#: core/admin/views/settings.php:629
+msgid "Disconnect Dropbox"
+msgstr "Déconnecter Dropbox"
+
+#: core/admin/views/settings.php:628
+msgid "Are you sure you want to disconnect Dropbox?"
+msgstr "Confirmez-vous vouloir déconnecter Dropbox ?"
+
+#: core/admin/views/settings.php:614
+msgid "Create Dropbox App secret from Dropbox developers panel. "
+msgstr "Créez un secret d’app Dropbox depuis le panneau des développeurs/développeuses Dropbox. "
+
+#: core/admin/views/settings.php:612
+msgid "Insert app secret"
+msgstr "Insérer le secret de l’app"
+
+#: core/admin/views/settings.php:610
+msgid "App Secret:"
+msgstr "Secret de l’app :"
+
+#: core/admin/views/settings.php:604
+msgid "Create App ID from Dropbox developers panel. "
+msgstr "Créez un ID d’app depuis le panneau développeurs/développeuses de Dropbox. "
+
+#: core/admin/views/settings.php:602
+msgid "Insert App ID"
+msgstr "Insérer l’ID d’app"
+
+#: core/admin/views/settings.php:600
+msgid "App ID:"
+msgstr "ID d’app :"
+
+#: core/admin/views/settings.php:591
+msgid "Dropbox Settings"
+msgstr "Réglages Dropbox"
+
+#: core/admin/views/settings.php:531
+msgid "Create Google reCAPTCHA secret key from reCAPTCHA admin panel. "
+msgstr "Créer la clé secrète Google reCaptcha à partir du panneau d’administration de reCAPTCHA. "
+
+#: core/admin/views/settings.php:521
+msgid "Create Google reCAPTCHA site key from reCAPTCHA admin panel. "
+msgstr "Créez une clé de site Google reCAPTCHA depuis le panneau d’administration reCAPTCHA. "
+
+#: core/admin/views/settings.php:174
+msgid "Configure Google sheets & drive APIs"
+msgstr "Configurer les API Google Sheets et Drive"
+
+#: core/admin/views/settings.php:173
+msgid "Google Integration"
+msgstr "Intégration Google"
+
+#: widgets/range/range.php:193
+msgid "Prefix Text"
+msgstr "Texte de préfixe"
+
+#: widgets/range/range.php:180
+msgid "Enable Prefix"
+msgstr "Activer le préfixe"
+
+#: widgets/range/range.php:167
+msgid "Suffix Text"
+msgstr "Texte de suffixe"
+
+#: widgets/range/range.php:155
+msgid "Enable Suffix"
+msgstr "Activer le suffixe"
+
+#: core/entries/hooks.php:117
+msgid "Export PDF"
+msgstr "Exporter le PDF"
+
+#: core/forms/hooks.php:111
+msgid "Upgrade for premium access."
+msgstr "Mettre à niveau pour bénéficier d’un accès premium."
+
+#: core/admin/views/settings.php:1272
+msgid "Get access to premium features by upgrading today."
+msgstr "Accédez à des fonctionnalités premium en mettant à niveau dès aujourd’hui."
+
+#: core/admin/views/settings.php:1271
+msgid "Upgrade to sync forms with Google Sheets & Drive!"
+msgstr "Mettez à niveau pour synchroniser vos formulaires avec Google Sheets et Drive !"
+
+#: core/admin/views/settings.php:1060
+msgid "Redirect Page is Exclusive To Higher Tiers!"
+msgstr "La page de redirection est réservée aux niveaux supérieurs !"
+
+#: core/admin/views/settings.php:1013
+msgid "Get premium access to use Stripe payment in forms."
+msgstr "Obtenez un accès premium pour utiliser le paiement Stripe dans les formulaires."
+
+#: core/admin/views/settings.php:1008
+msgid "Stripe Payment is Exclusive To Higher Tiers!"
+msgstr "Le paiement Stripe est réservé aux niveaux supérieurs !"
+
+#: core/admin/views/settings.php:917
+msgid "Get premium access to use PayPal payment in forms."
+msgstr "Obtenez un accès premium pour utiliser le paiement PayPal dans les formulaires."
+
+#: core/admin/views/settings.php:912
+msgid "PayPal Payment is Exclusive To Higher Tiers!"
+msgstr "Le paiement PayPal est réservé aux niveaux supérieurs !"
+
+#: core/admin/views/settings.php:657 core/admin/views/settings.php:728
+#: core/admin/views/settings.php:913 core/admin/views/settings.php:1009
+#: core/admin/views/settings.php:1061
+msgid "Get access by upgrading to MetForm Professional Plan."
+msgstr "Accédez en mettant à niveau vers l’offre  MetForm Professional."
+
+#: core/admin/views/settings.php:727
+msgid "Maps Are Exclusive To Higher Tiers!"
+msgstr "Les cartes sont réservées aux niveaux supérieurs !"
+
+#: core/admin/views/settings.php:487
+msgid "reCAPTCHA Settings"
+msgstr "Réglages reCAPTCHA"
+
+#: core/forms/views/modal-editor.php:400
+msgid "Email verification:"
+msgstr "Vérification de l’e-mail :"
+
+#: core/admin/views/settings.php:916 core/admin/views/settings.php:1012
+#: core/integrations/crm/hubspot/loader.php:95
+#: core/integrations/crm/hubspot/loader.php:123
+msgid "You are currently using MetForm free version."
+msgstr "Vous utilisez actuellement la version gratuite de MetForm."
+
+#: core/forms/views/modal-editor.php:91
+msgid "Post"
+msgstr "Publication"
+
+#: core/forms/views/modal-editor.php:89
+msgid "Auth"
+msgstr "Auth"
+
+#: widgets/date/date.php:626
+msgid "Time Padding"
+msgstr "Marge interne de l’heure"
+
+#: widgets/date/date.php:608
+msgid "Time Border Radius"
+msgstr "Rayon de la bordure de l’heure"
+
+#: widgets/date/date.php:597
+msgid "Time Border"
+msgstr "Bordure de l’heure"
+
+#: widgets/date/date.php:581
+msgid "Month/Year Padding"
+msgstr "Marge interne des mois/année"
+
+#: widgets/date/date.php:566
+msgid "Month/Year Border Radius"
+msgstr "Rayon de la bordure des mois/année"
+
+#: widgets/date/date.php:558
+msgid "Month/Year Border"
+msgstr "Bordure des mois/année"
+
+#: widgets/date/date.php:540
+msgid "Time Background Color"
+msgstr "Couleur d’arrière-plan de l’heure"
+
+#: widgets/date/date.php:526
+msgid "Month/Year Background Color"
+msgstr "Couleur d’arrière-plan des mois/année"
+
+#: widgets/date/date.php:509
+msgid "Time Input Color"
+msgstr "Couleur de saisie de l’heure"
+
+#: widgets/date/date.php:495
+msgid "Month/Year Input Color"
+msgstr "Couleur de saisie des mois/année"
+
+#: core/integrations/onboard/views/onboard-steps/step-03.php:142
+msgid "Unlock All & Continue"
+msgstr "Tout débloquer et continuer"
+
+#: core/integrations/onboard/views/onboard-steps/step-03.php:141
+msgid "Continue"
+msgstr "Continuer"
+
+#: core/integrations/onboard/views/onboard-steps/step-06.php:18
+msgid "Go to WP Dashboard"
+msgstr "Aller au tableau de bord WP"
+
+#: core/integrations/onboard/views/onboard-steps/step-06.php:5
+msgid "Here’s an overview of everything that is setup."
+msgstr "Voici une vue d’ensemble de tout ce qui est configuré."
+
+#: core/integrations/onboard/views/onboard-steps/step-06.php:2
+msgid "Great! You’re All Set!"
+msgstr "Super ! Tout est configuré !"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:33
+msgid "Complete Setup"
+msgstr "Terminer la configuration"
+
+#: core/integrations/onboard/views/onboard-steps/step-03.php:77
+msgid "Enhance block capability with page builder features & templates for Gutenberg."
+msgstr "Améliorez les capacités des blocs grâce aux fonctionnalités et aux modèles du constructeur de pages pour Gutenberg."
+
+#: core/integrations/onboard/views/onboard-steps/step-03.php:94 plugin.php:333
+msgid "Design popups that convert, right in your WordPress dashboard."
+msgstr "Concevez des fenêtres surgissantes qui convertissent, directement depuis votre tableau de bord WordPress."
+
+#: core/integrations/onboard/views/onboard-steps/step-03.php:111
+msgid "Drag-and-drop email builder for WooCommerce & WordPress."
+msgstr "Constructeur d’e-mails par glisser-déposer pour WooCommerce et WordPress."
+
+#: core/integrations/onboard/views/onboard-steps/step-03.php:42
+msgid "Best companion for Elementor with top widgets and templates."
+msgstr "Le meilleur compagnon d’Elementor avec les meilleurs widgets et modèles."
+
+#: core/integrations/onboard/views/onboard-steps/step-03.php:59
+msgid "The ultimate solution to build a complete WooCommerce site in Elementor."
+msgstr "La solution ultime pour construire un site WooCommerce complet avec Elementor."
+
+#: core/integrations/onboard/views/onboard-steps/step-03.php:128
+msgid "Find top keywords, create winning content & track SEO results with AI."
+msgstr "Trouvez les meilleurs mots-clés, créez du contenu gagnant et suivez les résultats SEO grâce à l’IA."
+
+#: core/integrations/onboard/views/onboard-steps/step-03.php:5
+msgid "A fleet of plugins with all types of features you will need for WordPress."
+msgstr "Une flotte d’extensions avec toutes les fonctionnalités dont vous aurez besoin pour WordPress."
+
+#: core/integrations/onboard/classes/ajax.php:104
+msgid "Plugin Activated"
+msgstr "Extension activée"
+
+#: core/integrations/onboard/classes/ajax.php:98
+msgid "Table Builder Activated"
+msgstr "Constructeur de tableau activé"
+
+#: core/integrations/onboard/classes/ajax.php:97
+msgid "Popup Builder Activated"
+msgstr "Constructeur de fenêtre surgissante activé"
+
+#: core/integrations/onboard/classes/ajax.php:96
+msgid "Page Builder Blocks Activated"
+msgstr "Blocs du constructeur de pages activés"
+
+#: core/integrations/onboard/classes/ajax.php:95
+msgid "Fundraising & Donations"
+msgstr "Collecte de fonds et dons"
+
+#: core/integrations/onboard/classes/ajax.php:94
+msgid "Email Customizer Activated"
+msgstr "Outil de personnalisation d’e-mail activé"
+
+#: core/integrations/onboard/classes/ajax.php:93
+msgid "Form Builder Activated"
+msgstr "Constructeur de formulaire activé"
+
+#: core/integrations/onboard/classes/ajax.php:92
+msgid "WooCommerce Builder Activated"
+msgstr "Constructeur WooCommerce activé"
+
+#: core/integrations/onboard/classes/ajax.php:91
+msgid "AI Content & SEO Tool Activated"
+msgstr "Outil de contenu IA et de référencement activé"
+
+#: core/integrations/onboard/classes/ajax.php:90
+msgid "Page Builder Elements Activated"
+msgstr "Éléments du constructeur de pages activés"
+
+#: core/integrations/onboard/classes/ajax.php:89
+msgid "Setup Configurations"
+msgstr "Configurations d’installation"
+
+#. Plugin URI of the plugin
+#: metform.php
+msgid "http://wpmet.com/plugin/metform/"
+msgstr "http://wpmet.com/plugin/metform/"
+
+#: widgets/manifest.php:114
+msgid "Toggle Select"
+msgstr "Ouvrir/fermer la liste déroulante"
+
+#: widgets/manifest.php:108
+msgid "Text Editor"
+msgstr "Éditeur de texte"
+
+#: widgets/manifest.php:102
+msgid "Simple Repeater"
+msgstr "Répéteur simple"
+
+#: widgets/manifest.php:96
+msgid "Signature"
+msgstr "Signature"
+
+#: widgets/manifest.php:90
+msgid "Prev Step"
+msgstr "Étape précédente"
+
+#: widgets/manifest.php:84
+msgid "Payment Method"
+msgstr "Moyen de paiement"
+
+#: widgets/manifest.php:72
+msgid "Mobile Number"
+msgstr "Numéro de mobile"
+
+#: widgets/manifest.php:60
+msgid "Like Dislike"
+msgstr "J’aime Je n’aime pas"
+
+#: widgets/manifest.php:54
+msgid "Image Select"
+msgstr "Sélectionner une image"
+
+#: widgets/manifest.php:48
+msgid "Credit Card"
+msgstr "Carte de crédit"
+
+#: widgets/manifest.php:42
+msgid "Color Picker"
+msgstr "Sélecteur de couleur"
+
+#: widgets/manifest.php:36
+msgid "Calculation"
+msgstr "Calcul"
+
+#: core/integrations/emailkit-builder.php:37
+msgid "Access denied."
+msgstr "Accès refusé."
+
+#: core/admin/views/settings.php:1051
+msgid "Redirect Page Settings "
+msgstr "Réglages de redirection de page "
+
+#: core/admin/views/settings.php:1064
+msgid "Redirect Page is a premium feature—get Pro to use it!"
+msgstr "La redirection de page est une fonctionnalité premium. Mettez à niveau vers Pro pour l’utiliser !"
+
+#: core/admin/views/settings.php:111 core/admin/views/settings.php:198
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: widgets/simple-message/simple-message.php:78
+msgid "Alignment"
+msgstr "Alignement"
+
+#: widgets/simple-message/simple-message.php:21
+msgid "Simple Message"
+msgstr "Message simple"
+
+#: widgets/simple-message/simple-message.php:55
+#: widgets/simple-message/simple-message.php:71
+msgid "Message"
+msgstr "Message"
+
+#: widgets/url/url.php:165
+msgid "Please enter a valid URL starting with http:// or https://"
+msgstr "Veuillez saisir une URL valide commençant par http:// ou https://"
+
+#: core/integrations/crm/hubspot/loader.php:43
+msgid "CRM & Marketing"
+msgstr "CRM & Marketing"
+
+#: core/entries/api.php:336 core/entries/api.php:373 core/entries/api.php:433
+#: core/entries/api.php:564 core/integrations/emailkit-builder.php:30
+msgid "Nonce mismatch."
+msgstr "Nonce non concordant."
+
+#: core/entries/api.php:347
+msgid "Invalid_api_key."
+msgstr "Invalid_api_key."
+
+#: core/integrations/onboard/views/onboard-steps/step-02.php:11
+msgid "(We Never Spam)"
+msgstr "(nous n’envoyons jamais d’indésirable)"
+
+#: core/integrations/onboard/views/onboard-steps/step-01.php:30
+#: core/integrations/onboard/views/onboard-steps/step-02.php:17
+#: core/integrations/onboard/views/onboard-steps/step-04.php:30
+msgid "Next"
+msgstr "Suivant"
+
+#: core/integrations/onboard/views/layout-onboard.php:17
+msgid "Upgrade Your Site"
+msgstr "Mettez à niveau votre site"
+
+#: plugin.php:351
+msgid "EmailKit"
+msgstr "EmailKit"
+
+#: plugin.php:301
+msgid "GutenKit"
+msgstr "GutenKit"
+
+#: utils/apps/apps.php:440
+msgid "Activate"
+msgstr "Activer"
+
+#: core/admin/views/settings.php:458
+msgid "Don't forget to rate MetForm!"
+msgstr "N’oubliez pas d’évaluer MetForm !"
+
+#: utils/apps/apps.php:457
+msgid "Read Docs"
+msgstr "Lire la documentation"
+
+#: plugin.php:322
+msgid "ShopEngine"
+msgstr "ShopEngine"
+
+#: plugin.php:344
+msgid "GetGenie"
+msgstr "GetGenie"
+
+#: plugin.php:358
+msgid "Wp Social"
+msgstr "WP Social"
+
+#: plugin.php:365
+msgid "Blocks for ShopEngine"
+msgstr "Blocks for ShopEngine"
+
+#: plugin.php:294
+msgid "ElementsKit"
+msgstr "ElementsKit"
+
+#: widgets/file-upload/file-upload.php:165
+msgid "You can increase your upload file size."
+msgstr "Vous pouvez augmenter la taille de téléversement de fichier."
+
+#: widgets/file-upload/file-upload.php:163
+msgid "Deafult maximum upload file size: %s"
+msgstr "Taille maximale par défaut de téléversement de fichier : %s"
+
+#: widgets/email/email.php:100
+msgid "Enable unique email address"
+msgstr "Activer l’adresse e-mail unique"
+
+#: widgets/email/email.php:94
+msgid "Unique Email"
+msgstr "E-mail unique"
+
+#: core/entries/action.php:156
+msgid "%1$s %2$s already exist."
+msgstr "%1$s %2$s existe déjà."
+
+#: core/entries/action.php:100
+msgid "File size exceeded."
+msgstr "Taille maximale du fichier dépassée."
+
+#: utils/user-consent-banner/consent-check-view.php:44
+msgid "Show update & fix related important messages, essential tutorials and promotional images on WP Dashboard"
+msgstr "Afficher les messages importants relatifs aux mises à jour et aux correctifs, les tutoriels essentiels et les images promotionnelles sur le tableau de bord WP."
+
+#: traits/common-controls.php:196
+msgid "Max Value"
+msgstr "Valeur maximale"
+
+#: traits/common-controls.php:184
+msgid "Min Value"
+msgstr "Valeur minimale"
+
+#: traits/common-controls.php:177
+msgid "By range"
+msgstr "Par plage"
+
+#: plugin.php:474
+msgid "Minimum number should be "
+msgstr "Le nombre minimum devrait être "
+
+#: plugin.php:473
+msgid "Maximum number should be "
+msgstr "Le nombre maximal devrait être "
+
+#: plugin.php:472
+msgid "Maximum length should be "
+msgstr "La longueur maximale devrait être "
+
+#: plugin.php:471
+msgid " character long."
+msgstr " caractères de long."
+
+#: plugin.php:470
+msgid "Minimum length should be "
+msgstr "La longueur minimale devrait être "
+
+#: widgets/switch/switch.php:359 widgets/switch/switch.php:540
+msgctxt "Border Control"
+msgid "Circle Border Color"
+msgstr "Couleur de la bordure du cercle"
+
+#: widgets/switch/switch.php:345 widgets/switch/switch.php:526
+msgctxt "Border Control"
+msgid "Circle Border Width"
+msgstr "Largeur de la bordure circulaire"
+
+#: widgets/switch/switch.php:325 widgets/switch/switch.php:506
+msgctxt "Border Control"
+msgid "Circle Border Type"
+msgstr "Type de bordure du cercle"
+
+#: widgets/switch/switch.php:311 widgets/switch/switch.php:492
+msgid "Circle Background Color"
+msgstr "Сouleur d’arrière-plan du cercle"
+
+#: core/forms/views/modal-editor.php:1189
+msgid "Form Fields"
+msgstr "Champs de formulaire"
+
+#: core/entries/file-data-validation.php:40
+#: core/entries/file-data-validation.php:78
+msgid "No File found"
+msgstr "Aucun fichier trouvé"
+
+#: traits/common-controls.php:98
+msgid "Fixed Field Name : "
+msgstr "Nom du champ épinglé : "
+
+#: core/forms/views/modal-editor.php:659
+msgid "Google Sheet list title"
+msgstr "Titre de la liste Google Sheet"
+
+#: core/forms/views/modal-editor.php:650
+msgid "Sheets List:"
+msgstr "Liste de Sheets :"
+
+#: core/forms/views/modal-editor.php:647
+msgid "Google Spreadsheet list id"
+msgstr "ID de la liste Google Spreadsheet"
+
+#: core/forms/views/modal-editor.php:636
+msgid "Spreadsheets List:"
+msgstr "Liste des feuilles de calcul :"
+
+#: core/admin/views/settings.php:788
+msgid "Display Input Field Name Alongside Value "
+msgstr "Afficher le nom du champ de saisie à côté de la valeur "
+
+#: core/entries/meta-data.php:117
+msgid "Visitor"
+msgstr "Visiteur"
+
+#: widgets/radio/radio.php:275
+msgctxt "Radio Control"
+msgid "Radio"
+msgstr "Bouton radio"
+
+#: widgets/radio/radio.php:276
+msgctxt "Radio Control"
+msgid "Checked"
+msgstr "Coché"
+
+#: widgets/radio/radio.php:272
+msgctxt "Radio Control"
+msgid "Input Type"
+msgstr "Type d’entrée"
+
+#: widgets/range/range.php:283
+msgid "Input Track Background"
+msgstr "Arrière-plan de la piste d’entrée"
+
+#: widgets/range/range.php:241
+msgid "Range Track"
+msgstr "Piste de plage"
+
+#: base/shortcode.php:135 base/shortcode.php:139
+msgid "No entry found."
+msgstr "Aucune entrée trouvée."
+
+#: base/shortcode.php:101
+msgid "Thank you . Your payment status : "
+msgstr "Merci. Votre état de paiement : "
+
+#: base/shortcode.php:99
+msgid " Your transcation ID : "
+msgstr " Votre ID de transaction : "
+
+#: base/shortcode.php:99
+msgid " Thank you for your payment."
+msgstr " Merci pour votre paiement."
+
+#: core/integrations/crm/hubspot/loader.php:220
+msgid "Refresh Token"
+msgstr "Actualiser le jeton"
+
+#: core/integrations/crm/hubspot/loader.php:239
+msgid "Enter Hubsopt token expires in here"
+msgstr "Saisissez le jeton HubSpot qui expire ici"
+
+#: core/integrations/crm/hubspot/loader.php:236
+msgid "Token Expires In"
+msgstr "Le jeton expire le"
+
+#: core/integrations/crm/hubspot/loader.php:228
+msgid "Token Tyoe"
+msgstr "Type de jeton"
+
+#: core/integrations/crm/hubspot/loader.php:231
+msgid "Enter Hubsopt token type here"
+msgstr "Saisissez ici le type de jeton HubSpot"
+
+#: core/integrations/crm/hubspot/loader.php:223
+msgid "Enter Hubsopt refresh token here"
+msgstr "Saisissez ici le jeton d’actualisation HubSpot"
+
+#: core/forms/action.php:132
+msgid "Form settings updated"
+msgstr "Réglages de formulaire mis à jour"
+
+#: utils/util.php:721
+msgid "Permalink Structure Updated!"
+msgstr "Structure des permaliens mise à jour !"
+
+#: utils/util.php:695
+msgid "Change Permalink"
+msgstr "Modifier le permalien"
+
+#: utils/util.php:689
+msgid "Plain permalink is not supported with MetForm. We recommend to use post name as your permalink settings."
+msgstr "Les permaliens classiques ne sont pas pris en charge par MetForm. Nous vous recommandons d’utiliser le nom de la publication comme réglage de permalien."
+
+#: core/entries/meta-data.php:323
+msgid "Order Details"
+msgstr "Détails de la commande"
+
+#: core/entries/form-data.php:485
+msgid "Type:"
+msgstr "Type :"
+
+#: core/entries/form-data.php:481
+msgid "Number:"
+msgstr "Nombre :"
+
+#: traits/quiz-control.php:565
+msgid "Title"
+msgstr "Titre"
+
+#: traits/quiz-control.php:448
+msgid "value"
+msgstr "valeur"
+
+#: traits/quiz-control.php:150 traits/quiz-control.php:221
+#: traits/quiz-control.php:344
+msgid "Placeholder"
+msgstr "Texte indicatif"
+
+#: controls/form-picker-modal.php:70 controls/form-picker-modal.php:73
+#: build/admin/add-new-form-modal/index.js:1
+#: build/admin/form-picker-modal/index.js:1
+msgid "Blank Template"
+msgstr "Modèle vide"
+
+#: controls/form-picker-modal.php:51 build/admin/add-new-form-modal/index.js:1
+msgid "Quiz Form"
+msgstr "Formulaire de quiz"
+
+#: traits/quiz-control.php:56 traits/quiz-control.php:57
+msgid "Enter question"
+msgstr "Saisir une question"
+
+#: traits/quiz-control.php:55 build/admin/form-analytics/index.js:1
+msgid "Question"
+msgstr "Question"
+
+#: traits/quiz-control.php:43
+msgid "Enter name of the input"
+msgstr "Saisir le nom de l’entrée"
+
+#: traits/quiz-control.php:93 traits/quiz-control.php:94
+msgid "Enter answer"
+msgstr "Saisissez la réponse"
+
+#: traits/quiz-control.php:90
+msgid "Answer:"
+msgstr "Réponse :"
+
+#: traits/quiz-control.php:78
+msgid "Add answer for the question?"
+msgstr "Ajouter une réponse à la question ?"
+
+#: traits/quiz-control.php:313 traits/quiz-control.php:403
+msgid "Options"
+msgstr "Options"
+
+#: traits/quiz-control.php:301 traits/quiz-control.php:391
+#: traits/quiz-control.php:474 traits/quiz-control.php:617
+msgid "Select as answer?"
+msgstr "Sélectionner une réponse ?"
+
+#: traits/quiz-control.php:253
+msgid "Multiple Answer"
+msgstr "Réponses multiples"
+
+#: traits/quiz-control.php:252
+msgid "Single Answer"
+msgstr "Réponse unique"
+
+#: traits/quiz-control.php:249
+msgid "Type : "
+msgstr "Type : "
+
+#: traits/quiz-control.php:240
+msgid "Where do you want to option?"
+msgstr "Où souhaitez-vous mettre votre option ?"
+
+#: core/forms/api.php:459
+msgid "Not Authorized"
+msgstr "Non autorisé"
+
+#: controls/form-picker-modal.php:45 controls/form-picker-modal.php:50
+msgid "General Form"
+msgstr "Formulaire général"
+
+#: traits/quiz-control.php:573 utils/pro-awareness/pro-awareness.php:236
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: traits/quiz-control.php:629
+msgid "Image select Options"
+msgstr "Options de sélection d’image"
+
+#: traits/quiz-control.php:584
+msgid "Preview (Optional)"
+msgstr "Prévisualisation (facultatif)"
+
+#: traits/quiz-control.php:531
+msgid "Toggle select Options"
+msgstr "Ouvrir/fermer la sélection des options"
+
+#: traits/quiz-control.php:486
+msgid "Add\t Icon"
+msgstr "Ajouter\t Icône"
+
+#: traits/quiz-control.php:465 traits/quiz-control.php:608
+msgid "Select it default ?"
+msgstr "Sélectionner par défaut ? "
+
+#: widgets/email/email.php:171
+msgid "Error Message"
+msgstr "Message d’erreur"
+
+#: core/integrations/crm/hubspot/loader.php:46
+msgid "HubSpot"
+msgstr "HubSpot"
+
+#: widgets/select/select.php:290
+msgid "Options Wrapper"
+msgstr "Options de conteneur"
+
+#: core/integrations/crm/hubspot/loader.php:262
+msgid "Click Here To Connect Your HubSpot Account"
+msgstr "Cliquez ici pour connecter votre compte HubSpot"
+
+#: core/integrations/crm/hubspot/loader.php:257
+msgid "sign up for a free HubSpot account here."
+msgstr "inscrivez-vous pour un compte HubSpot gratuit ici."
+
+#: core/integrations/crm/hubspot/loader.php:257
+msgid "If you don't already have a HubSpot account, you can"
+msgstr "Si vous n’avez pas encore de compte HubSpot, vous pouvez"
+
+#: core/integrations/crm/hubspot/loader.php:249
+msgid "Disconnect HubSpot Account"
+msgstr "Déconnecter le compte HubSpot"
+
+#: core/integrations/crm/hubspot/loader.php:215
+msgid "Enter Hubsopt token here"
+msgstr "Saisissez le jeton HubSpot ici"
+
+#: core/admin/views/settings.php:1103
+msgid "Here"
+msgstr "Ici"
+
+#: core/admin/views/settings.php:1107 core/admin/views/settings.php:1121
+msgid "Create Thank You Page"
+msgstr "Créer une page de remerciement"
+
+#: core/admin/views/settings.php:1091 core/admin/views/settings.php:1114
+#: core/admin/views/settings.php:1134 core/admin/views/settings.php:1160
+msgid "Select a page"
+msgstr "Sélectionner une page"
+
+#: core/admin/views/settings.php:1088 core/admin/views/settings.php:1114
+msgid "Select Thank You Page :"
+msgstr "Sélectionner la page de remerciement :"
+
+#: core/admin/views/settings.php:779
+msgid "Please note "
+msgstr "Veuillez noter "
+
+#: core/admin/views/settings.php:772 core/admin/views/settings.php:824
+msgid "Save Form Progress ?"
+msgstr "Enregistrer la progression du formulaire ?"
+
+#: widgets/file-upload/file-upload.php:212
+msgid ".stl"
+msgstr ".stl"
+
+#: widgets/file-upload/file-upload.php:210
+msgid ".stp"
+msgstr ".stp"
+
+#: widgets/select/select.php:164
+msgid "File Type"
+msgstr "Type de fichier"
+
+#: widgets/select/select.php:123
+msgid "CSV File"
+msgstr "Fichier CSV"
+
+#: widgets/select/select.php:122
+msgid "Custom"
+msgstr "Personaliser"
+
+#: traits/quiz-control.php:212 widgets/select/select.php:119
+msgid "Data Type"
+msgstr "Type de données"
+
+#: core/entries/action.php:182 core/entries/action.php:191
+msgid "Form validation failed"
+msgstr "Échec de validation du formulaire"
+
+#: widgets/select/select.php:167
+msgid "Upload File"
+msgstr "Téléverser un fichier"
+
+#: widgets/select/select.php:180
+msgid "Upload CSV File"
+msgstr "Téléverser un fichier CSV"
+
+#: widgets/select/select.php:168
+msgid "Remote File URL"
+msgstr "URL du fichier distant"
+
+#: core/forms/views/modal-editor.php:388 core/forms/views/modal-editor.php:393
+msgid "Want to send a copy of submitted form to user ?"
+msgstr "Souhaitez-vous envoyer une copie du formulaire envoyé à l’utilisateur/utilisatrice ?"
+
+#: core/entries/action.php:776
+msgid "Problem with your RestApi integration."
+msgstr "Problème avec votre intégration RestApi."
+
+#: core/entries/action.php:469
+msgid "Problem with your Mail Poet integration."
+msgstr "Problème avec votre intégration MailPoet."
+
+#: core/entries/action.php:439
+msgid "Problem with convertKit."
+msgstr "Problème avec ConvertKit."
+
+#: core/entries/action.php:423
+msgid "Problem with your slack integration."
+msgstr "Problème avec votre intégration Slack."
+
+#: core/entries/action.php:400
+msgid "Problem with your zapier integration."
+msgstr "Problème avec votre intégration Zapier."
+
+#: core/entries/action.php:379
+msgid "Problem with your GetResponse integration."
+msgstr "Problème avec votre intégration GetResponse."
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:631
+msgid "Api Key"
+msgstr "Clé de l’API"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:619
+msgid "Google Map"
+msgstr "Google Map"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:597
+msgid "Check connection"
+msgstr "Vérifier la connexion"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:588
+msgid "Secret Key"
+msgstr "Clé secrète"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:579
+msgid "Api key"
+msgstr "Clé de l’API"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:567
+msgid "Zoom Data"
+msgstr "Données Zoom"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:528
+msgid "This is need to calculate the remaining time for token"
+msgstr "Ceci est nécessaire pour calculer le temps restant pour le jeton"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:525
+msgid "Token generation date"
+msgstr "Date de génération du jeton"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:515
+msgid "Token expires time"
+msgstr "Heure d’expiration du jeton"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:495
+msgid "User ID"
+msgstr "ID du compte"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:474
+msgid "Instragram User Data"
+msgstr "Données du compte Instragram"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:454
+msgid "Get Access Token"
+msgstr "Obtenir le jeton d’accès"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:444
+#: core/integrations/onboard/views/settings-sections/usersettings.php:505
+msgid "Access Token"
+msgstr "Jeton d’accès"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:434
+msgid "Twitter Username"
+msgstr "Identifiant Twitter"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:422
+msgid "Twitter User Data"
+msgstr "Données de compte Twitter"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:380
+msgid "Access token"
+msgstr "Jeton d’accès"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:363
+msgid "Dribbble User Data"
+msgstr "Données de compte Dribbble"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:20
+msgid "MailChimp Data"
+msgstr "Données MailChimp"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:27
+msgid "Tutorials"
+msgstr "Tutoriels"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:26
+#: plugin.php:406
+msgid "Video Tutorials"
+msgstr "Tutoriels vidéo"
+
+#: core/admin/views/settings.php:400
+#: core/integrations/onboard/views/settings-sections/dashboard.php:13
+msgid "Docs"
+msgstr "Docs"
+
+#: core/admin/views/settings.php:399
+#: core/integrations/onboard/views/settings-sections/dashboard.php:12
+msgid "Easy Documentation"
+msgstr "Documentation facile"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:28
+msgid "Explore PRO"
+msgstr "Explorer la Pro"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:19
+msgid "Popular CRM Integrations"
+msgstr "Intégrations CRM populaires"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:334
+msgid "Show Dialog Box"
+msgstr "Afficher la boîte de dialogue"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:324
+msgid "Logged out user greeting"
+msgstr "Accueil des utilisateurs et utilisatrices déconnectés"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:314
+msgid "Logged-in user greeting"
+msgstr "Accueil des utilisateurs et utilisatrices connectés"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:282
+msgid "Facebook Messenger"
+msgstr "Facebook Messenger"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:260
+msgid "Yelp Page"
+msgstr "Page Yelp"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:246
+msgid "Yelp Settings"
+msgstr "Réglages de Yelp"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:158
+msgid "Page Token"
+msgstr "Jeton de la page"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:152
+msgid "Refresh access token"
+msgstr "Actualiser le jeton d’accès"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:144
+#: core/integrations/onboard/views/settings-sections/usersettings.php:294
+msgid "Page ID"
+msgstr "ID de la page"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:130
+msgid "Facebook page review"
+msgstr "Avis de page Facebook"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:108
+#: core/integrations/onboard/views/settings-sections/usersettings.php:152
+#: core/integrations/onboard/views/settings-sections/usersettings.php:393
+#: core/integrations/onboard/views/settings-sections/usersettings.php:546
+msgid "Get access token"
+msgstr "Obtenir un jeton d’accès"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:102
+#: core/integrations/onboard/views/settings-sections/usersettings.php:179
+#: core/integrations/onboard/views/settings-sections/usersettings.php:400
+#: core/integrations/onboard/views/settings-sections/usersettings.php:540
+msgid "Clear Cache"
+msgstr "Vider le cache"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:88
+msgid "Page Access Token"
+msgstr "Jeton d’accès de page"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:75
+msgid "Facebook app id"
+msgstr "ID d’app Facebook"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:74
+msgid "Facebook Page ID"
+msgstr "ID de la page Facebook"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:60
+msgid "Facebook Page Feed"
+msgstr "Flux de la page Facebook"
+
+#: core/integrations/crm/hubspot/loader.php:158
+#: core/integrations/crm/hubspot/loader.php:212
+#: core/integrations/onboard/views/settings-sections/usersettings.php:33
+msgid "Token"
+msgstr "Jeton"
+
+#: core/integrations/onboard/views/settings-sections/modules.php:23
+msgid "Widget Builder"
+msgstr "Constructeur de widget"
+
+#: core/integrations/onboard/views/settings-sections/modules.php:20
+msgid "Header Footer"
+msgstr "En-tête, pied de page"
+
+#: core/integrations/onboard/views/settings-sections/modules.php:16
+msgid "You can disable the modules you are not using on your site. That will disable all associated assets of those modules to improve your site loading speed."
+msgstr "Vous pouvez désactiver les modules que vous n’utilisez pas sur votre site. Cela désactivera toutes les ressources associées à ces modules pour améliorer le chargement de votre site."
+
+#: core/admin/views/settings.php:458
+#: core/integrations/onboard/views/settings-sections/dashboard.php:152
+msgid "Satisfied?"
+msgstr "Satisfait !"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:142
+msgid "Feature a request"
+msgstr "Demande de fonctionnalité"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:140
+msgid "Maybe we’re missing something you can’t live without."
+msgstr "Peut-être qu’il nous manque quelque chose dont vous ne pouvez pas vous passer."
+
+#: core/admin/views/settings.php:422
+#: core/integrations/onboard/views/settings-sections/dashboard.php:123
+msgid "Join support forum"
+msgstr "Rejoindre le forum de support"
+
+#: core/admin/views/settings.php:418
+#: core/integrations/onboard/views/settings-sections/dashboard.php:119
+msgid "Support"
+msgstr "Support"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:118
+msgid "Top-notch Friendly Support"
+msgstr "Un support amical de premier ordre"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:91
+msgid "2. How to translate theme with WPML?"
+msgstr "2. Comment traduire le thème avec WPML ?"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:83
+msgid "1. How to create a shop page in ElementsKit Lite?"
+msgstr "1. Comment créer une page boutique dans ElementsKit Lite ?"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:67
+msgid "watch more videos"
+msgstr "regarder plus de vidéos"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:54
+msgid "Mega Menu Builder"
+msgstr "Constructeur de méga menu"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:46
+msgid "Advanced Accordions"
+msgstr "Accordéons avancés"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:38
+msgid "Parallax Effects"
+msgstr "Effet parallaxe"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:29
+#: core/integrations/onboard/views/settings-sections/dashboard.php:78
+msgid "Get started by spending some time with the documentation to get familiar with ElementsKit Lite."
+msgstr "Commencez par consulter la documentation pour vous familiariser avec ElementsKit Lite."
+
+#: core/admin/views/settings.php:395
+#: core/integrations/onboard/views/settings-sections/dashboard.php:8
+#: core/integrations/onboard/views/settings-sections/dashboard.php:128
+msgid "Documentation Thumb"
+msgstr "Le pouce de la documentation"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:25
+msgid "10+ Advanced Features for Customizations"
+msgstr "Plus de 10 fonctionnalités avancées pour les personnalisations"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:24
+msgid "35+ Form Input Widgets"
+msgstr "Plus de 35 widgets de saisie de formulaire"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:23
+msgid "15+ Third-Party API Integrations"
+msgstr "Plus de 15 intégrations d’API tierces"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:20
+msgid "Data Within Dashboard"
+msgstr "Données dans le tableau de bord"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:18
+msgid "Required Fields Validation"
+msgstr "Validation des champs obligatoires"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:17
+msgid "Smart Conditional Logic"
+msgstr "Logique conditionnelle intelligente"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:16
+msgid "Free Premium’ Features"
+msgstr "Fonctionnalités premium gratuites"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:6
+msgid " and get a "
+msgstr " et obtenir un "
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:5
+msgid "2 hours"
+msgstr "2 heures"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:4
+msgid "Upgrade within the next"
+msgstr "Mettre à niveau dans les prochains"
+
+#: core/integrations/onboard/views/layout-onboard.php:28
+msgid "Finalizing info"
+msgstr "Informations de finalisation"
+
+#: core/integrations/onboard/views/layout-onboard.php:27
+msgid "Finalizing"
+msgstr "Finalisation"
+
+#: core/integrations/onboard/views/layout-onboard.php:23
+msgid "Surprise info"
+msgstr "Info de surprise"
+
+#: core/integrations/onboard/views/layout-onboard.php:22
+msgid "Surprise"
+msgstr "Surprise"
+
+#: core/integrations/onboard/views/layout-onboard.php:18
+msgid "Website Powerup info"
+msgstr "Infos sur la mise sous tension du site"
+
+#: core/integrations/onboard/views/layout-onboard.php:13
+msgid "Sign Up info"
+msgstr "Informations sur l’inscription"
+
+#: core/integrations/onboard/views/layout-onboard.php:12
+msgid "Sign Up"
+msgstr "S’inscrire"
+
+#: core/integrations/onboard/views/layout-onboard.php:7
+msgid "Tutorial info"
+msgstr "Infos sur le tutoriel"
+
+#: core/integrations/onboard/views/layout-onboard.php:6
+msgid "Tutorial"
+msgstr "Tutoriel"
+
+#: core/integrations/onboard/controls/settings/switch.php:50
+msgid "View Demo"
+msgstr "Voir la démo"
+
+#: core/integrations/onboard/classes/plugin-status.php:65
+#: utils/apps/apps.php:395
+msgid "Install Now"
+msgstr "Installer maintenant"
+
+#: core/integrations/onboard/classes/plugin-status.php:60
+#: utils/apps/apps.php:390
+msgid "Activate Now"
+msgstr "Activer maintenant"
+
+#: core/integrations/onboard/classes/plugin-status.php:57
+#: utils/apps/apps.php:387 utils/apps/apps.php:725 utils/apps/apps.php:728
+msgid "Activated"
+msgstr "Activée"
+
+#: core/entries/hooks.php:43
+msgid "Email Verified"
+msgstr "E-mail vérifié"
+
+#: widgets/manifest.php:78
+msgid "Next Step"
+msgstr "Étape suivante"
+
+#: core/integrations/onboard/views/onboard-steps/step-01.php:29
+#: core/integrations/onboard/views/onboard-steps/step-02.php:16
+#: core/integrations/onboard/views/onboard-steps/step-03.php:138
+#: core/integrations/onboard/views/onboard-steps/step-04.php:29
+#: core/integrations/onboard/views/onboard-steps/step-05.php:32
+msgid "Back"
+msgstr "Retour"
+
+#: core/integrations/onboard/views/onboard-steps/step-01.php:26
+#: core/integrations/onboard/views/onboard-steps/step-04.php:26
+msgid "What types of information do we gather?"
+msgstr "Quels types d’informations recueillons-nous ?"
+
+#: core/admin/views/settings.php:409
+#: core/integrations/onboard/views/settings-sections/dashboard.php:17
+msgid "Get started"
+msgstr "Premiers pas"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:7
+msgid "20% Discount"
+msgstr "40% de remise"
+
+#: widgets/date/date.php:178
+msgid "Set maximum date manually"
+msgstr "Définir manuellement la date maximale"
+
+#: widgets/date/date.php:163
+msgid "Set minimum date manually"
+msgstr "Définir manuellement la date minimum"
+
+#: widgets/date/date.php:151
+msgid "Set current date as minimum date"
+msgstr "Définir la date actuelle comme date minimum"
+
+#: core/forms/views/modal-editor.php:977
+msgid "Enter here tag id. "
+msgstr "Saisissez ici l’id de l’étiquette. "
+
+#: core/forms/views/modal-editor.php:960
+msgid "Enter here list id. "
+msgstr "Saisissez ici l’id de la liste. "
+
+#: core/forms/views/modal-editor.php:947
+msgid "Active campaign List ID:"
+msgstr "ID de liste Active Campaign :"
+
+#: core/forms/views/modal-editor.php:630
+msgid "Configure Google Sheet."
+msgstr "Configurer Google Sheet."
+
+#: core/forms/views/modal-editor.php:628 core/forms/views/modal-editor.php:665
+msgid "Google Sheet:"
+msgstr "Google Sheet :"
+
+#: core/entries/action.php:986
+msgid "ssl certificate or google oauth credentials problem"
+msgstr "problème de certificat SSL ou d’infos de connexion Google Oauth"
+
+#: core/admin/views/settings.php:1298
+msgid "Click on \"Generate Access Token\""
+msgstr "Cliquez sur « Générer un jeton d’accès »"
+
+#: core/admin/views/settings.php:637 core/admin/views/settings.php:694
+#: core/admin/views/settings.php:1251 core/admin/views/settings.php:1297
+msgid "Click on \"Save Changes\""
+msgstr "Cliquez sur « Enregistrer les modifications »"
+
+#: core/admin/views/settings.php:1248 core/admin/views/settings.php:1294
+msgid "Check how to create App/Project On Google developer account"
+msgstr "Découvrez comment créer une application/un projet sur un compte développeur Google"
+
+#: core/admin/views/settings.php:1231
+msgid "Enter here your google secret id. "
+msgstr "Saisissez ici votre id de clé secrète Google. "
+
+#: core/admin/views/settings.php:1229
+msgid "Google OAuth Client Secret"
+msgstr "Secret client Google OAuth"
+
+#: core/admin/views/settings.php:1228 core/admin/views/settings.php:1289
+msgid "Google Client Secret:"
+msgstr "Secret client Google :"
+
+#: core/admin/views/settings.php:1222
+msgid "Enter here your google client id. "
+msgstr "Saisissez ici votre id client Google. "
+
+#: core/admin/views/settings.php:1220
+msgid "Google OAuth Client Id"
+msgstr "ID client Google OAuth"
+
+#: core/admin/views/settings.php:1219 core/admin/views/settings.php:1284
+msgid "Google Client Id:"
+msgstr "ID client Google :"
+
+#: core/forms/views/modal-editor.php:630
+msgid "Integrate google sheet with this form. "
+msgstr "Intégrer Google Sheet à ce formulaire. "
+
+#: widgets/file-upload/file-upload.php:507
+msgid "Invalid file extension"
+msgstr "Extension de fichier non valide"
+
+#. translators: File size limit in kilobytes for the MetForm plugin. %s is the
+#. dynamic file size limit.
+#: widgets/file-upload/file-upload.php:511
+msgid "File size cannot exceed %s kb"
+msgstr "La taille du fichier ne doit pas excéder %s ko"
+
+#: core/forms/views/modal-editor.php:1245
+msgid "Available Mailboxes"
+msgstr "Boîtes e-mail disponibles"
+
+#: core/forms/views/modal-editor.php:1240
+msgid "Configure Helpscout."
+msgstr "Configurer Helpscout."
+
+#: core/forms/views/modal-editor.php:1240
+msgid "Integrate Helpscout with this form. "
+msgstr "Intégrer Helpscout à ce formulaire. "
+
+#: core/forms/views/modal-editor.php:1238
+msgid "Helpscout"
+msgstr "Helpscout"
+
+#: widgets/select/select.php:483
+msgid "Selected"
+msgstr "Sélectionné"
+
+#: widgets/select/select.php:345
+msgid "Option"
+msgstr "Option"
+
+#: utils/stories/views/template.php:137
+msgid "Need Help?"
+msgstr "Besoin d’aide ?"
+
+#: utils/pro-awareness/pro-awareness.php:171
+#: utils/pro-awareness/pro-awareness.php:186
+msgid "Default Title"
+msgstr "Titre par défaut"
+
+#: utils/stories/stories.php:255
+msgid "Wpmet Stories"
+msgstr "Wpmet Stories"
+
+#: plugin.php:430 utils/stories/views/template.php:145
+msgid "Facebook Community"
+msgstr "Communauté Facebook"
+
+#: utils/stories/views/template.php:141
+msgid "Blog"
+msgstr "Blog"
+
+#: traits/common-controls.php:487 widgets/gdpr-consent/gdpr-consent.php:288
+#: widgets/recaptcha/recaptcha.php:99
+#: widgets/simple-captcha/simple-captcha.php:263
+msgid "Warning Text Typography"
+msgstr "Typographie du texte d’avertissement"
+
+#: traits/common-controls.php:467 widgets/gdpr-consent/gdpr-consent.php:269
+#: widgets/recaptcha/recaptcha.php:83
+#: widgets/simple-captcha/simple-captcha.php:247
+msgid "Warning Text Color:"
+msgstr "Couleur du texte d’avertissement :"
+
+#: widgets/email/email.php:66
+msgid "Show Logged in Email"
+msgstr "Afficher l’e-mail connecté"
+
+#: core/entries/meta-data.php:294
+msgid "Woocommerce Checkout"
+msgstr "Validation de commande WooCommerce"
+
+#: core/forms/views/modal-editor.php:1005
+msgid "Mailster Forms"
+msgstr "Formulaires Mailster"
+
+#: core/forms/views/modal-editor.php:1001
+msgid "Integrate Mailster with this form."
+msgstr "Intégrer Mailster avec ce formulaire."
+
+#: core/forms/views/modal-editor.php:999
+msgid "Mailster:"
+msgstr "Mailster :"
+
+#: widgets/file-upload/file-upload.php:67
+msgid "No file chosen Text"
+msgstr "Texte Aucun fichier choisi"
+
+#: widgets/file-upload/file-upload.php:59
+msgid "Choose file Text"
+msgstr "Texte fichier choisi"
+
+#: widgets/date/date.php:422
+msgid "Enable time 24hr?"
+msgstr "Activer le temps sur 24 heures ?"
+
+#: widgets/date/date.php:297
+msgid "Localization"
+msgstr "Localisation"
+
+#: widgets/date/date.php:106
+msgid "Vietnamese"
+msgstr "Vietnamien"
+
+#: widgets/date/date.php:105
+msgid "Ukrainian"
+msgstr "Ukrainien"
+
+#: widgets/date/date.php:104
+msgid "Turkish"
+msgstr "Turc"
+
+#: widgets/date/date.php:103
+msgid "Thai"
+msgstr "Thaïlandais"
+
+#: widgets/date/date.php:101
+msgid "Spanish"
+msgstr "Espagnol"
+
+#: widgets/date/date.php:99
+msgid "Slovak"
+msgstr "Slovaque"
+
+#: widgets/date/date.php:97
+msgid "SerbianCyrillic"
+msgstr "Cyrillique serbe"
+
+#: widgets/date/date.php:96
+msgid "Serbian"
+msgstr "Serbe"
+
+#: widgets/date/date.php:95
+msgid "Russian"
+msgstr "Russe"
+
+#: widgets/date/date.php:94
+msgid "Romanian"
+msgstr "Roumain"
+
+#: widgets/date/date.php:91
+msgid "Polish"
+msgstr "Polonais"
+
+#: widgets/date/date.php:89
+msgid "Norwegian"
+msgstr "Norvégien"
+
+#: widgets/date/date.php:88
+msgid "Mongolian"
+msgstr "Mongol"
+
+#: widgets/date/date.php:87
+msgid "MandarinTraditional"
+msgstr "Mandarin traditionnel"
+
+#: widgets/date/date.php:86
+msgid "Mandarin"
+msgstr "Mandarin"
+
+#: widgets/date/date.php:85
+msgid "Malaysian"
+msgstr "Malaisien"
+
+#: widgets/date/date.php:84
+msgid "Macedonian"
+msgstr "Macédonien"
+
+#: widgets/date/date.php:82
+msgid "Latvian"
+msgstr "Letton"
+
+#: widgets/date/date.php:81
+msgid "Korean"
+msgstr "Coréen"
+
+#: widgets/date/date.php:80
+msgid "Khmer"
+msgstr "Khmer"
+
+#: widgets/date/date.php:78
+msgid "Japanese"
+msgstr "Japonais"
+
+#: widgets/date/date.php:77
+msgid "Italian"
+msgstr "Italien"
+
+#: widgets/date/date.php:76
+msgid "Indonesian"
+msgstr "Indonésien"
+
+#: widgets/date/date.php:75
+msgid "Icelandic"
+msgstr "Islandais"
+
+#: widgets/date/date.php:74
+msgid "Hungarian"
+msgstr "Hongrois"
+
+#: widgets/date/date.php:73
+msgid "Hindi"
+msgstr "Hindi"
+
+#: widgets/date/date.php:72
+msgid "Hebrew"
+msgstr "Hébreu"
+
+#: widgets/date/date.php:71
+msgid "Greek"
+msgstr "Grec"
+
+#: widgets/date/date.php:70
+msgid "German"
+msgstr "Allemand"
+
+#: widgets/date/date.php:68
+msgid "French"
+msgstr "Français"
+
+#: widgets/date/date.php:67
+msgid "Finnish"
+msgstr "Finnois"
+
+#: widgets/date/date.php:65
+msgid "Estonian"
+msgstr "Estonien"
+
+#: widgets/date/date.php:63
+msgid "English"
+msgstr "Anglais"
+
+#: widgets/date/date.php:62
+msgid "Dutch"
+msgstr "Néerlandais"
+
+#: widgets/date/date.php:61
+msgid "Danish"
+msgstr "Danois"
+
+#: widgets/date/date.php:60
+msgid "Czech"
+msgstr "Tchèque"
+
+#: widgets/date/date.php:59
+msgid "Croatian"
+msgstr "Croate"
+
+#: widgets/date/date.php:58
+msgid "Catalan"
+msgstr "Catalan"
+
+#: widgets/date/date.php:57
+msgid "Burmese"
+msgstr "Birman"
+
+#: widgets/date/date.php:56
+msgid "Bulgarian"
+msgstr "Bulgare"
+
+#: widgets/date/date.php:55
+msgid "Bosnian"
+msgstr "Bosniaque"
+
+#: widgets/date/date.php:54
+msgid "Belarusian"
+msgstr "Biélorusse"
+
+#: widgets/date/date.php:50
+msgid "Arabic"
+msgstr "Arabe"
+
+#: widgets/date/date.php:49
+msgid "Albanian"
+msgstr "Albanais"
+
+#: widgets/date/date.php:100
+msgid "Slovenian"
+msgstr "Slovène"
+
+#: widgets/date/date.php:53
+msgid "Bangla"
+msgstr "Bengali"
+
+#: widgets/date/date.php:298
+msgid "Language change will be shown on preview."
+msgstr "Le changement de langue sera affiché lors de l’aperçu."
+
+#: widgets/date/date.php:107
+msgid "Welsh"
+msgstr "Gallois"
+
+#: widgets/date/date.php:98
+msgid "Sinhala"
+msgstr "Cingalais"
+
+#: widgets/date/date.php:93
+msgid "Punjabi"
+msgstr "Pendjabi"
+
+#: widgets/date/date.php:92
+msgid "Portuguese"
+msgstr "Portuguais"
+
+#: widgets/date/date.php:90
+msgid "Persian"
+msgstr "Persan"
+
+#: widgets/date/date.php:79
+msgid "Kazakh"
+msgstr "Kazakh"
+
+#: widgets/date/date.php:69
+msgid "Georgian"
+msgstr "Georgien"
+
+#: widgets/date/date.php:66
+msgid "Faroese"
+msgstr "Féroien"
+
+#: widgets/date/date.php:64
+msgid "Esperanto"
+msgstr "Esperanto"
+
+#: widgets/date/date.php:51
+msgid "Austria"
+msgstr "Autriche"
+
+#: widgets/date/date.php:102
+msgid "Swedish"
+msgstr "Suédois"
+
+#: widgets/date/date.php:52
+msgid "Azerbaijan"
+msgstr "Azerbaïdjan"
+
+#: widgets/date/date.php:83
+msgid "Lithuanian"
+msgstr "Lituanien"
+
+#: traits/button-controls.php:57
+msgid "Justified"
+msgstr "Justifié"
+
+#: controls/form-editor-modal.php:15
+msgid "Update & Close"
+msgstr "Mettre à jour & fermer"
+
+#: core/admin/views/integrations.php:72
+msgid "ActiveCampaign API URL"
+msgstr "URL d’API ActiveCampaign"
+
+#: core/admin/views/integrations.php:71
+msgid "API URL:"
+msgstr "URL de l’API :"
+
+#: core/forms/views/modal-editor.php:293 core/forms/views/modal-editor.php:298
+msgid "Stop scrolling effect when submitting the form."
+msgstr "Arrêtee l’effet de défilement à l’envoi du formulaire."
+
+#: core/forms/views/modal-editor.php:291
+msgid "Stop Vertical Scrolling:"
+msgstr "Arrêter le défilement vertical :"
+
+#: core/admin/views/integrations.php:242
+msgid "Redirect url:"
+msgstr "URL de redirection :"
+
+#: core/entries/hooks.php:41 build/admin/form-analytics/index.js:1
+msgid "Referral"
+msgstr "Référence"
+
+#: widgets/email/email.php:257
+msgid "Please enter a valid Email address"
+msgstr "Veuillez saisir une adresse de messagerie valide"
+
+#: widgets/checkbox/checkbox.php:202 widgets/date/date.php:142
+#: widgets/file-upload/file-upload.php:118
+#: widgets/gdpr-consent/gdpr-consent.php:115
+#: widgets/listing-optin/listing-optin.php:96
+#: widgets/multi-select/multi-select.php:160 widgets/radio/radio.php:207
+#: widgets/range/range.php:70 widgets/rating/rating.php:70
+#: widgets/select/select.php:223 widgets/switch/switch.php:89
+#: widgets/time/time.php:74 widgets/url/url.php:71
+msgid "Validation Type"
+msgstr "Type de validation"
+
+#: widgets/recaptcha/recaptcha.php:120
+msgid "reCAPTCHA is required."
+msgstr "reCAPTCHA est nécessaire."
+
+#: widgets/simple-captcha/simple-captcha.php:402
+msgid "Captcha didn't matched."
+msgstr "Le captcha ne correspondait pas."
+
+#: widgets/range/range.php:109
+msgid "Dual range input:"
+msgstr "Entrée double plage :"
+
+#: core/admin/views/integrations.php:122
+msgid "Secret Key:"
+msgstr "Clé secrète :"
+
+#: core/admin/views/integrations.php:103
+msgid "ConvertKit"
+msgstr "ConvertKit"
+
+#: core/admin/views/settings.php:345
+#: core/integrations/onboard/views/settings-sections/dashboard.php:76
+msgid "FAQ"
+msgstr "FAQ"
+
+#: core/admin/views/settings.php:306 core/forms/hooks.php:109
+msgid "View Details"
+msgstr "Voir les détails"
+
+#: core/admin/views/settings.php:300 core/admin/views/settings.php:316
+#: core/admin/views/settings.php:330 core/forms/views/modal-editor.php:139
+msgid "Required Login"
+msgstr "Connexion nécessaire"
+
+#: core/admin/views/settings.php:299 core/admin/views/settings.php:315
+#: core/admin/views/settings.php:329
+msgid "Success Message"
+msgstr "Message de réussite"
+
+#: core/admin/views/settings.php:269
+#: core/integrations/onboard/views/onboard-steps/step-05.php:13
+msgid "PRO"
+msgstr "PRO"
+
+#: core/admin/views/settings.php:242
+msgid "Dynamic Forms"
+msgstr "Formulaires dynamiques"
+
+#: core/admin/views/settings.php:211 core/admin/views/settings.php:271
+msgid "features"
+msgstr "fonctionnalités"
+
+#: core/admin/views/settings.php:209
+msgid "Features"
+msgstr "Fonctionnalités"
+
+#: core/forms/views/modal-editor.php:939
+msgid "Configure ActiveCampaign."
+msgstr "Configurer ActiveCampaign."
+
+#: core/forms/views/modal-editor.php:807 core/forms/views/modal-editor.php:865
+msgid "ConvertKit:"
+msgstr "ConvertKit :"
+
+#: core/forms/views/modal-editor.php:743 core/forms/views/modal-editor.php:833
+msgid "MailPoet:"
+msgstr "MailPoet :"
+
+#: core/forms/views/modal-editor.php:775 core/forms/views/modal-editor.php:856
+msgid "Aweber:"
+msgstr "Aweber :"
+
+#: core/forms/views/modal-editor.php:763 core/forms/views/modal-editor.php:794
+#: core/forms/views/modal-editor.php:825 core/forms/views/modal-editor.php:961
+#: core/forms/views/modal-editor.php:978
+msgid "Refresh List"
+msgstr "Actualiser la liste"
+
+#: core/forms/views/modal-editor.php:749
+msgid "Configure MailPoet."
+msgstr "Configurer MailPoet."
+
+#: core/forms/views/modal-editor.php:87
+msgid "CRM"
+msgstr "CRM"
+
+#: core/forms/views/modal-editor.php:458
+msgid "Integrate hubspot with this form. "
+msgstr "Intégrer hubspot à ce formulaire."
+
+#: core/forms/views/modal-editor.php:456
+msgid "HubSpot Forms:"
+msgstr "Formulaires HubSpot :"
+
+#: core/admin/views/settings.php:472
+#: core/integrations/onboard/views/settings-sections/dashboard.php:159
+msgid "Rate Now Thumb"
+msgstr "Miniature Évaluer maintenant"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:152
+msgid "Don’t forget to rate our item."
+msgstr "N’oubliez pas de noter notre élément."
+
+#: core/admin/views/settings.php:388
+#: core/integrations/onboard/views/settings-sections/dashboard.php:110
+msgid "View all faq’s"
+msgstr "Voir toutes les FAQ"
+
+#: core/admin/views/settings.php:377
+#: core/integrations/onboard/views/settings-sections/dashboard.php:99
+msgid "3. How to add custom css in specific section shortcode?"
+msgstr "3. Comment ajouter un CSS personnalisé dans un code court de section spécifique ?"
+
+#: core/admin/views/settings.php:366
+msgid "2. How to translate language with WPML?"
+msgstr "2. Comment traduire une langue avec WPML ?"
+
+#: core/admin/views/settings.php:344
+#: core/integrations/onboard/views/settings-sections/dashboard.php:75
+msgid "General Knowledge Base"
+msgstr "Base de connaissance générale"
+
+#: core/admin/views/settings.php:301 core/admin/views/settings.php:317
+#: core/admin/views/settings.php:331
+msgid "Hide Form After Submission"
+msgstr "Masquer le formulaire après l’envoi"
+
+#: core/admin/views/settings.php:284
+msgid "Modern Typography"
+msgstr "Typographie moderne"
+
+#: core/admin/views/settings.php:228
+msgid "Moden Typography"
+msgstr "Typographie moderne"
+
+#: core/forms/views/modal-editor.php:1184
+msgid "Configure Zoho."
+msgstr "Configurer Zoho."
+
+#: core/forms/views/modal-editor.php:1183
+msgid "Integrate Zoho contacts with this form. "
+msgstr "Intégrer Zoho Contact à ce formulaire."
+
+#: core/forms/views/modal-editor.php:463
+msgid "Fetch HubSpot Forms"
+msgstr "Récupérer les formulaires Hubspot"
+
+#: core/forms/views/modal-editor.php:480
+msgid "HubSpot Contact:"
+msgstr "Contact Hubspot :"
+
+#: core/forms/views/modal-editor.php:932 core/forms/views/modal-editor.php:985
+msgid "ActiveCampaign:"
+msgstr "ActiveCampaign :"
+
+#: core/forms/views/modal-editor.php:915
+msgid "Enter here GetResponse list id. "
+msgstr "Saisir l’ID de la liste GetResponse."
+
+#: core/forms/views/modal-editor.php:906
+msgid "GetResponse List ID:"
+msgstr "ID de la liste GetResponse :"
+
+#: core/forms/views/modal-editor.php:900
+msgid "Configure GetResponse."
+msgstr "Configurer GetResponse."
+
+#: core/forms/views/modal-editor.php:874 core/forms/views/modal-editor.php:894
+msgid "GetResponse:"
+msgstr "GetResponse :"
+
+#: core/forms/views/modal-editor.php:813
+msgid "Configure ConvertKit."
+msgstr "Configurer ConvertKit."
+
+#: core/admin/views/settings.php:303 core/admin/views/settings.php:319
+#: core/admin/views/settings.php:333
+msgid "Store Entries"
+msgstr "Entrées de la boutique"
+
+#: core/forms/views/modal-editor.php:1181
+#: core/forms/views/modal-editor.php:1227
+#: core/forms/views/modal-editor.php:1271
+msgid "Zoho Contact:"
+msgstr "Contact Zoho :"
+
+#: core/integrations/mail-chimp.php:53
+msgid "Your data inserted on ActiveCampaign."
+msgstr "Vos données insérées sur ActiveCampaign."
+
+#: core/admin/views/settings.php:460
+msgid "review"
+msgstr "avis"
+
+#: core/admin/views/settings.php:466
+#: core/integrations/onboard/views/settings-sections/dashboard.php:154
+msgid "Rate it now"
+msgstr "Évaluez-la maintenant"
+
+#: core/admin/views/settings.php:359 core/admin/views/settings.php:370
+#: core/admin/views/settings.php:381
+#: core/integrations/onboard/views/settings-sections/dashboard.php:86
+#: core/integrations/onboard/views/settings-sections/dashboard.php:94
+#: core/integrations/onboard/views/settings-sections/dashboard.php:102
+msgid "You will get 20+ complete homepages and total 450+ blocks in our layout library and we’re continuously updating the numbers there."
+msgstr "Vous obtiendrez plus de 20 pages d’accueil complètes et plus de 450 blocs au total dans notre bibliothèque de mise en page et nous en ajoutons régulièrement."
+
+#: core/admin/views/settings.php:355
+msgid "1. How to create a Invitation Form using MetForm?"
+msgstr "1. Comment créer un formulaire d’invitation à l’aide de MetForm ?"
+
+#: core/admin/views/settings.php:296 core/admin/views/settings.php:312
+#: core/admin/views/settings.php:326
+msgid "Get started by spending some time with the documentation to get familiar with MetForm Get started by spending some time with the documentation to get notification in real time."
+msgstr "Commencez par passer un peu de temps avec la documentation pour vous familiariser avec MetForm Commencez par passer un peu de temps avec la documentation pour recevoir des notifications en temps réel."
+
+#: core/admin/views/settings.php:281 core/admin/views/settings.php:284
+#: core/admin/views/settings.php:287 core/forms/views/modal-editor.php:125
+#: core/forms/views/modal-editor.php:141 core/forms/views/modal-editor.php:157
+#: core/forms/views/modal-editor.php:202 core/forms/views/modal-editor.php:252
+#: core/forms/views/modal-editor.php:267 core/forms/views/modal-editor.php:283
+#: core/forms/views/modal-editor.php:299 core/forms/views/modal-editor.php:311
+#: core/forms/views/modal-editor.php:327 core/forms/views/modal-editor.php:352
+#: core/forms/views/modal-editor.php:394 core/forms/views/modal-editor.php:402
+#: core/forms/views/modal-editor.php:562 core/forms/views/modal-editor.php:586
+msgid "Pro"
+msgstr "Pro"
+
+#: core/admin/views/settings.php:268
+msgid "What included with Free &"
+msgstr "Ce qui est inclus dans la version gratuite et"
+
+#: core/admin/views/settings.php:256
+msgid "Awesome Layout"
+msgstr "Mise en page impressionnante"
+
+#: core/admin/views/settings.php:249
+msgid "Create Faster"
+msgstr "Créer plus rapidement"
+
+#: core/admin/views/settings.php:235 core/admin/views/settings.php:287
+msgid "Perfectly Match"
+msgstr "Correspondance parfaite"
+
+#: core/admin/views/settings.php:223 core/admin/views/settings.php:230
+#: core/admin/views/settings.php:237 core/admin/views/settings.php:244
+#: core/admin/views/settings.php:251 core/admin/views/settings.php:258
+msgid "Get started by spending some time with the documentation to get familiar with MetForm"
+msgstr "Commencez par passer un peu de temps avec la documentation pour vous familiariser avec MetForm."
+
+#: core/admin/views/settings.php:221 core/admin/views/settings.php:281
+msgid "Easy to use"
+msgstr "Facile d’utilisation"
+
+#: core/admin/views/settings.php:213 core/admin/views/settings.php:273
+#: core/admin/views/settings.php:347
+msgid "Get started by spending some time with the documentation to get familiar with ElementsKit."
+msgstr "Commencez par passer un peu de temps avec la documentation pour vous familiariser avec ElementsKit."
+
+#: core/admin/views/settings.php:208
+msgid "Top Notch"
+msgstr "Haut de gamme"
+
+#: core/forms/views/modal-editor.php:935
+msgid "Integrate ActiveCampaign with this form."
+msgstr "Intégrez ActiveCampaign à ce formulaire."
+
+#: core/forms/views/modal-editor.php:914
+msgid "GetResponse contact list id"
+msgstr "ID de la liste de contacts GetResponse"
+
+#: core/forms/views/modal-editor.php:823
+msgid "Enter here ConvertKit form id. "
+msgstr "Saisir ici l’ID du formulaire ConvertKit. "
+
+#: core/forms/views/modal-editor.php:819
+msgid "ConvertKit Forms ID:"
+msgstr "ID de formulaires ConvertKit :"
+
+#: core/forms/views/modal-editor.php:793
+msgid "Enter here aweber list id. "
+msgstr "Saisir ici l’ID de la liste Aweber. "
+
+#: core/forms/views/modal-editor.php:788
+msgid "Aweber List ID:"
+msgstr "ID de la liste Aweber :"
+
+#: core/forms/views/modal-editor.php:781
+msgid "Configure aweber."
+msgstr "Configurer Aweber."
+
+#: core/forms/views/modal-editor.php:756
+msgid "MailPoet List ID:"
+msgstr "Id de la liste MailPoet :"
+
+#: core/forms/views/modal-editor.php:746
+msgid "Integrate MailPoet with this form."
+msgstr "Intégrez MailPoet à ce formulaire."
+
+#: core/forms/views/modal-editor.php:458
+msgid "Configure HubSpot."
+msgstr "Configurer HubSpot."
+
+#: core/forms/views/modal-editor.php:897
+msgid "Integrate GetResponse with this form. "
+msgstr "Intégrer GetResponse à ce formulaire. "
+
+#: core/forms/views/modal-editor.php:810
+msgid "Integrate convertKit with this form. "
+msgstr "Intégrer ConvertKit à ce formulaire. "
+
+#: core/forms/views/modal-editor.php:778
+msgid "Integrate aweber with this form. "
+msgstr "Intégrer AWeber à ce formulaire. "
+
+#: core/admin/views/integrations.php:60
+msgid "ActiveCampaign"
+msgstr "ActiveCampaign"
+
+#: core/admin/views/settings.php:681 core/admin/views/settings.php:686
+#: core/admin/views/settings.php:713 core/admin/views/settings.php:752
+msgid "API:"
+msgstr "API :"
+
+#: core/forms/views/modal-form-template-item.php:26
+msgid "Demo"
+msgstr "Démo"
+
+#: widgets/widget-notice.php:16
+msgid "Go Pro for More Features"
+msgstr "Passez à PRO pour plus de fonctionnalités"
+
+#: core/integrations/onboard/views/settings-sections/dashboard.php:15
+#: core/integrations/onboard/views/settings-sections/dashboard.php:121
+msgid "Get started by spending some time with the documentation to get familiar with ElementsKit Lite. Build awesome websites for you or your clients with ease."
+msgstr "Commencez par passer du temps avec la documentation pour vous familiariser avec ElementsKit Lite. Construisez facilement des sites impressionnants pour vous ou vos clients."
+
+#: core/admin/views/integrations.php:40 core/admin/views/integrations.php:78
+#: core/admin/views/integrations.php:97 core/admin/views/integrations.php:114
+#: core/admin/views/integrations.php:141
+msgid "API Key:"
+msgstr "Clé de l’API :"
+
+#: core/admin/views/settings.php:162 core/admin/views/settings.php:1193
+msgid "Newsletter Integration"
+msgstr "Intégration de la newsletter"
+
+#: core/admin/views/settings.php:112
+msgid "All dashboard info here"
+msgstr "Toutes les informations du tableau de bord ici"
+
+#: core/forms/views/modal-editor.php:181
+msgid "Enter here title of this form entries."
+msgstr "Saisir le titre des entrées de ce formulaire."
+
+#: core/forms/views/modal-editor.php:179
+msgid "Entry Title"
+msgstr "Titre de l’entrée"
+
+#: widgets/widget-notice.php:23
+msgid "Unlock more possibilities"
+msgstr "Déverrouiller davantage de possibilités"
+
+#: core/forms/views/modal-form-template-item.php:22
+msgid "Buy Pro"
+msgstr "Acheter la version Pro"
+
+#: widgets/gdpr-consent/gdpr-consent.php:20
+msgid "GDPR Consent"
+msgstr "Consentement PIBR"
+
+#: widgets/summary/summary.php:116
+msgid "Summary will be shown on preview."
+msgstr "Le résumé sera affiché sur l’aperçu."
+
+#: core/admin/views/settings.php:492
+msgid "Select version:"
+msgstr "Sélectionner la version :"
+
+#: core/admin/views/settings.php:519 core/admin/views/settings.php:544
+msgid "Insert site key"
+msgstr "Insérer la clé de site"
+
+#: core/admin/views/settings.php:529 core/admin/views/settings.php:554
+msgid "Insert secret key"
+msgstr "Insérer la clé secrète"
+
+#: core/admin/views/settings.php:710 core/admin/views/settings.php:735
+msgid "Map"
+msgstr "Carte"
+
+#: core/admin/views/settings.php:871
+msgid "Stripe"
+msgstr "Stipe"
+
+#: core/forms/views/modal-editor.php:539
+msgid "Configure Mail Chimp."
+msgstr "Configurer MailChimp."
+
+#: widgets/recaptcha/recaptcha.php:56
+msgid "reCAPTCHA configure: "
+msgstr "reCaptcha :"
+
+#: widgets/simple-captcha/simple-captcha.php:26
+msgid "Simple Captcha"
+msgstr "Captcha de base"
+
+#: widgets/simple-captcha/simple-captcha.php:74
+msgid "Label Position"
+msgstr "Position du libellé"
+
+#: widgets/simple-captcha/simple-captcha.php:99
+msgid "Block"
+msgstr "Bloc"
+
+#: widgets/simple-captcha/simple-captcha.php:100
+msgid "Inline"
+msgstr "En ligne"
+
+#: widgets/simple-captcha/simple-captcha.php:276
+msgid "Refresh Captcha"
+msgstr "Rafraîchir la Captcha"
+
+#: core/admin/views/settings.php:903
+msgid "Enable this for testing payment method. "
+msgstr "A activer pour tester le mode de paiement."
+
+#: core/admin/views/settings.php:955
+msgid "Enter here your stripe image url. This image will show on stripe payment pop up modal. "
+msgstr "Saisir ici votre URL d’image Stripe. Cette image s’affichera dans la fenêtre modale de paiement Stripe."
+
+#: core/admin/views/settings.php:981
+msgid "Enable this for testing your payment system. "
+msgstr "A activer pour tester votre système de paiement."
+
+#: core/entries/action.php:207
+msgid "Google captcha token not found."
+msgstr "Jeton Captcha Google non trouvé."
+
+#: core/forms/views/modal-editor.php:1128
+msgid "Configure stripe payment."
+msgstr "Configurer le paiement Stripe."
+
+#: widgets/simple-captcha/simple-captcha.php:102
+msgid "Select input and captcha display property."
+msgstr "Sélectionnez la propriété de l’entrée et l’affichage de Captcha."
+
+#: widgets/simple-captcha/simple-captcha.php:438
+msgid "Entry captcha from the picture"
+msgstr "Entrée Captcha depuis une image"
+
+#: core/admin/views/settings.php:886
+msgid "Enter here your paypal email. "
+msgstr "Saisissez ici votre e-mail PayPal. "
+
+#: core/admin/views/settings.php:868
+msgid "Paypal"
+msgstr "Paypal"
+
+#: core/admin/views/settings.php:556
+msgid "Create Google reCAPTCHA secret key from reCaptcha admin panel. "
+msgstr "Créer la clé secrète Google reCaptcha à partir du panneau d’administration de reCaptcha. "
+
+#: core/forms/views/modal-editor.php:1117
+msgid "Configure paypal payment."
+msgstr "Configurer le paiement Paypal."
+
+#: core/admin/views/settings.php:504
+msgid "Select Google reCAPTCHA version which one want to use."
+msgstr "Sélectionnez la version de google reCAPTCHA que vous souhaitez utiliser."
+
+#: core/admin/views/settings.php:847 core/admin/views/settings.php:1179
+#: core/admin/views/settings.php:1317 core/admin/views/settings.php:1408
+#: utils/render.php:83
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: widgets/simple-captcha/simple-captcha.php:95
+msgid "Input captcha display"
+msgstr "Affichage du CAPTCHA de saisie"
+
+#: core/admin/views/settings.php:499
+msgid "reCAPTCHA V3"
+msgstr "reCAPTCHA v3"
+
+#: core/admin/views/settings.php:952 core/admin/views/settings.php:1033
+msgid "Image url:"
+msgstr "URL de l’image :"
+
+#: core/admin/views/settings.php:961
+msgid "Stripe live publishiable key"
+msgstr "Stripe clé publiable en direct"
+
+#: core/admin/views/settings.php:963
+msgid "Enter here your stripe live publishiable key. "
+msgstr "Saisir ici votre clé publiable en direct."
+
+#: core/admin/views/settings.php:968 core/admin/views/settings.php:1035
+msgid "Live secret key:"
+msgstr "Clé secrète Live :"
+
+#: core/admin/views/settings.php:987
+msgid "Test publishiable key:"
+msgstr "Tester la clé publiable :"
+
+#: core/entries/action.php:258
+msgid "Time out of this captcha. Please reload or choose another one."
+msgstr "Temps de sortie de ce captcha. Veuillez recharger ou en choisir un autre."
+
+#: core/entries/action.php:268
+msgid "Enter correct captcha."
+msgstr "Saisir le bon captcha."
+
+#: core/forms/hooks.php:44
+msgid "Views/ Conversion"
+msgstr "Vues/Conversion"
+
+#: core/forms/views/modal-editor.php:259
+msgid "Count views:"
+msgstr "Compteur de vues :"
+
+#: core/forms/views/modal-editor.php:261 core/forms/views/modal-editor.php:266
+msgid "Track form views."
+msgstr "Suivez les vues du formulaire."
+
+#: core/forms/views/modal-editor.php:1126
+#: core/forms/views/modal-editor.php:1166
+msgid "Stripe:"
+msgstr "Stripe :"
+
+#: core/forms/views/modal-editor.php:1128
+msgid "Integrate stripe payment with this form. "
+msgstr "Intégrer le paiement Stripe à ce formulaire."
+
+#: traits/conditional-controls.php:52
+msgid "AND"
+msgstr "ET"
+
+#: traits/conditional-controls.php:53
+msgid "OR"
+msgstr "OU"
+
+#: traits/conditional-controls.php:65
+msgid "Action"
+msgstr "Action"
+
+#: widgets/summary/summary.php:20
+msgid "Summary"
+msgstr "Résumé"
+
+#: core/admin/views/settings.php:953 core/admin/views/settings.php:1033
+msgid "Stripe image url"
+msgstr "URL de l’image Stripe"
+
+#: core/admin/views/settings.php:960
+msgid "Live publishiable key:"
+msgstr "Clé publique en ligne :"
+
+#: core/admin/views/settings.php:969 core/admin/views/settings.php:1035
+msgid "Stripe live secret key"
+msgstr "Clé secrète Stripe en ligne"
+
+#: core/admin/views/settings.php:988
+msgid "Stripe test publishiable key"
+msgstr "Clé publique de test Stripe"
+
+#: core/admin/views/settings.php:995 core/admin/views/settings.php:1038
+msgid "Stripe test secret key"
+msgstr "Clé secrète de test Stripe"
+
+#: core/entries/action.php:800
+msgid " Please wait... Redirecting to paypal."
+msgstr "Veuillez patienter... Redirection vers PayPal."
+
+#: core/entries/action.php:843
+msgid " Please wait... Open a Stripe Popup Box."
+msgstr "Veuillez patienter... Ouverture d’une fenêtre modale Stripe."
+
+#: core/admin/views/settings.php:990
+msgid "Enter here your test publishiable key. "
+msgstr "Saisissez ici votre clé de test publiable. "
+
+#: core/admin/views/settings.php:971
+msgid "Enter here your stripe live secret key. "
+msgstr "Saisissez ici votre clé secrète Stripe en direct. "
+
+#: core/admin/views/settings.php:994 core/admin/views/settings.php:1038
+msgid "Test secret key:"
+msgstr "Clé secrète de test :"
+
+#: core/admin/views/settings.php:997
+msgid "Enter here your test secret key. "
+msgstr "Saisissez ici votre clé secrète de test. "
+
+#: core/admin/views/settings.php:496
+msgid "reCAPTCHA V2"
+msgstr "reCAPTCHA v2"
+
+#: core/admin/views/settings.php:135 core/admin/views/settings.php:862
+#: core/entries/meta-data.php:333 core/forms/views/modal-editor.php:85
+msgid "Payment"
+msgstr "Paiement"
+
+#: core/admin/views/settings.php:883 core/admin/views/settings.php:937
+msgid "Paypal email:"
+msgstr "E-mail PayPal :"
+
+#: core/admin/views/settings.php:891 core/admin/views/settings.php:938
+msgid "Paypal token:"
+msgstr "Jeton d’Identité PayPal :"
+
+#: core/admin/views/settings.php:892 core/admin/views/settings.php:938
+msgid "Paypal token"
+msgstr "Token d’Identité PayPal"
+
+#: core/admin/views/settings.php:899 core/admin/views/settings.php:939
+#: core/admin/views/settings.php:977 core/admin/views/settings.php:1036
+msgid "Enable sandbox mode:"
+msgstr "Activer le mode bac à sable :"
+
+#: core/entries/action.php:1218
+msgid "Mail not found."
+msgstr "E-mail introuvable."
+
+#: core/forms/action.php:78 core/forms/action.php:100
+msgid "Form settings inserted"
+msgstr "Réglages du formulaire insérés"
+
+#: core/forms/views/modal-editor.php:1114
+#: core/forms/views/modal-editor.php:1158
+msgid "Paypal:"
+msgstr "Paypal :"
+
+#: traits/common-controls.php:250 widgets/checkbox/checkbox.php:449
+#: widgets/date/date.php:720 widgets/email/email.php:256
+#: widgets/file-upload/file-upload.php:504
+#: widgets/gdpr-consent/gdpr-consent.php:493
+#: widgets/listing-fname/listing-fname.php:171
+#: widgets/listing-lname/listing-lname.php:171
+#: widgets/listing-optin/listing-optin.php:333
+#: widgets/multi-select/multi-select.php:272 widgets/number/number.php:183
+#: widgets/password/password.php:170 widgets/radio/radio.php:475
+#: widgets/range/range.php:506 widgets/rating/rating.php:323
+#: widgets/select/select.php:583 widgets/switch/switch.php:590
+#: widgets/telephone/telephone.php:155 widgets/text/text.php:173
+#: widgets/textarea/textarea.php:178 widgets/time/time.php:187
+#: widgets/url/url.php:164
+msgid "This field is required."
+msgstr "Ce champ est nécessaire."
+
+#: traits/common-controls.php:147
+msgid "By character length"
+msgstr "Par longueur de caractère"
+
+#: traits/common-controls.php:151
+msgid "By Word length"
+msgstr "Par longueur de mot"
+
+#: traits/common-controls.php:155 traits/common-controls.php:177
+msgid "By expression based"
+msgstr "Par expression"
+
+#: traits/common-controls.php:247 traits/common-controls.php:249
+msgid "Warning message"
+msgstr "Message d’alerte"
+
+#: core/entries/action.php:43 core/entries/api.php:181 core/forms/action.php:31
+msgid "Something went wrong."
+msgstr "Quelque chose s’est mal passé."
+
+#: widgets/form.php:82
+msgid "Select Form: "
+msgstr "Sélectionner un formulaire : "
+
+#: traits/common-controls.php:415 widgets/gdpr-consent/gdpr-consent.php:251
+#: widgets/simple-captcha/simple-captcha.php:231
+msgid "Required Indicator Color:"
+msgstr "Couleur d’indicateur nécessaire : "
+
+#: widgets/switch/switch.php:58
+msgid "Active Text"
+msgstr "Texte actif"
+
+#: widgets/switch/switch.php:67
+msgid "Inactive Text"
+msgstr "Texte inactif"
+
+#: widgets/switch/switch.php:197
+msgid "Inactive"
+msgstr "Inactif"
+
+#: traits/common-controls.php:88 traits/quiz-control.php:44
+msgid "Name is must required. Enter name without space or any special character. use only underscore/ hyphen (_/-) for multiple word. Name must be different."
+msgstr "Le nom est nécessaire. Saisissez le nom sans espace ou tout caractère spécial. Utilisez seulement tiret bas/trait d’union (_/-) pour plusieurs mots. Le nom doit être différent."
+
+#: core/forms/action.php:108 core/forms/action.php:140
+msgid "You must enable \"store entries\" for integrating payment method."
+msgstr "Vous devez activer les « entrées boutique » pour intégrer le mode de paiement."
+
+#: core/forms/action.php:104
+msgid "You must active at least one field of these fields \"store entry/ Confirmation/ Notification/ MailChimp/ Zapier\". "
+msgstr "Vous devez activer au moins un de ces champs « entrée de boutique/ Confirmation/ Notification/ MailChimp/ Zapier ». "
+
+#: core/admin/views/settings.php:894
+msgid "Enter here your paypal token. This is optional. "
+msgstr "Saisir ici votre jeton PayPal. C’est facultatif. "
+
+#: core/admin/views/settings.php:884 core/admin/views/settings.php:937
+msgid "Paypal email"
+msgstr "E-mail Paypal"
+
+#: traits/common-controls.php:236
+msgid "Ex: [a-zA-Z]+ "
+msgstr "Ex. : [a-zA-Z]+ "
+
+#: core/forms/views/modal-editor.php:608
+msgid "POST"
+msgstr "POST"
+
+#: core/forms/views/modal-editor.php:609
+msgid "GET"
+msgstr "GET"
+
+#: traits/common-controls.php:162 traits/common-controls.php:174
+msgid "Validation type"
+msgstr "Type de validation"
+
+#: traits/common-controls.php:233
+msgid "Expression for validate "
+msgstr "Expression pour valider "
+
+#: core/forms/views/modal-editor.php:596
+msgid "Send entry data to third party api/webhook"
+msgstr "Envoyer des données d’entrée via une API/crochet Web à un tiers"
+
+#: core/forms/views/modal-editor.php:601
+msgid "URL/Webhook:"
+msgstr "URL/Crochet Web :"
+
+#: core/forms/views/modal-editor.php:602
+msgid "Rest api url/webhook"
+msgstr "URL/Crochet Web de l’API REST :"
+
+#: core/forms/views/modal-editor.php:603
+msgid "Enter rest api url/webhook here."
+msgstr "Saisissez ici l’URL/le crochet web de l’API REST."
+
+#: core/forms/views/modal-editor.php:594 core/forms/views/modal-editor.php:617
+msgid "REST API:"
+msgstr "API REST :"
+
+#: widgets/date/date.php:191
+msgid "Disable date : "
+msgstr "Désactiver la date : "
+
+#: widgets/date/date.php:202
+msgid "Disable date List"
+msgstr "Désactiver la liste des dates"
+
+#: widgets/file-upload/file-upload.php:76
+msgid "File Upload Icon:"
+msgstr "Icône de téléversement de fichier :"
+
+#: widgets/file-upload/file-upload.php:85
+msgid "File Upload Icon Position"
+msgstr "Position de l’icône de téléchargement de fichier"
+
+#: widgets/file-upload/file-upload.php:296
+msgid "Icon Spacing"
+msgstr "Espacement de l’icône"
+
+#: widgets/file-upload/file-upload.php:325
+msgid "Bottom"
+msgstr "En bas"
+
+#: widgets/checkbox/checkbox.php:152 widgets/multi-select/multi-select.php:111
+#: widgets/radio/radio.php:157 widgets/select/select.php:112
+msgid "Make this option default selected"
+msgstr "Rendre cette option par défaut sélectionnée"
+
+#: traits/quiz-control.php:292 traits/quiz-control.php:382
+#: widgets/checkbox/checkbox.php:145 widgets/multi-select/multi-select.php:104
+#: widgets/radio/radio.php:150 widgets/select/select.php:105
+msgid "Select it default ? "
+msgstr "Sélectionner par défaut ? "
+
+#: widgets/file-upload/file-upload.php:311
+msgid "File Name:"
+msgstr "Nom du fichier :"
+
+#: widgets/date/date.php:410
+msgid "Want to input time with it ?"
+msgstr "Vous voulez une entrée de temps avec lui ?"
+
+#: widgets/file-upload/file-upload.php:268
+msgid "Icon Size"
+msgstr "Taille de l’icône"
+
+#: widgets/checkbox/checkbox.php:410 widgets/gdpr-consent/gdpr-consent.php:455
+#: widgets/listing-optin/listing-optin.php:295 widgets/radio/radio.php:436
+msgid "Typography for text"
+msgstr "Typographie"
+
+#: widgets/checkbox/checkbox.php:397 widgets/gdpr-consent/gdpr-consent.php:442
+#: widgets/listing-optin/listing-optin.php:282 widgets/radio/radio.php:423
+msgid "Typography for icon"
+msgstr "Typographie"
+
+#: widgets/checkbox/checkbox.php:332 widgets/gdpr-consent/gdpr-consent.php:377
+#: widgets/listing-optin/listing-optin.php:217 widgets/radio/radio.php:357
+msgid "Checked"
+msgstr "Coché"
+
+#: widgets/checkbox/checkbox.php:358 widgets/gdpr-consent/gdpr-consent.php:403
+#: widgets/listing-optin/listing-optin.php:243 widgets/radio/radio.php:383
+msgid "Horizontal position of icon"
+msgstr "Position horizontale de l’icône"
+
+#: traits/conditional-controls.php:119
+msgid "50"
+msgstr "50"
+
+#: traits/conditional-controls.php:106
+msgid "smaller than"
+msgstr "plus petit que"
+
+#: traits/conditional-controls.php:104
+msgid "greater than"
+msgstr "plus grand que"
+
+#: traits/conditional-controls.php:103
+msgid "not equals"
+msgstr "n’est pas égal"
+
+#: traits/conditional-controls.php:102
+msgid "equals"
+msgstr "égal"
+
+#: traits/conditional-controls.php:101
+msgid "empty"
+msgstr "vide"
+
+#: traits/conditional-controls.php:86
+msgid "If"
+msgstr "Si"
+
+#: traits/conditional-controls.php:25
+msgid "Conditional logic"
+msgstr "Logique conditionnelle"
+
+#: widgets/form-basic.php:12
+msgid "MetForm Basic"
+msgstr "MetForm basique"
+
+#: widgets/number/number.php:74 widgets/range/range.php:133
+#: widgets/range/range.php:144
+msgid "Default Value"
+msgstr "Valeur par défaut"
+
+#: widgets/date/date.php:483
+msgid "Calendar Typography"
+msgstr "Typographie"
+
+#: widgets/telephone/telephone.php:21
+msgid "Telephone"
+msgstr "Téléphone"
+
+#: controls/form-picker-utils.php:36
+msgid "Edit Form Content"
+msgstr "Modifier le contenu du formulaire"
+
+#: controls/form-picker-modal.php:93
+msgid "Save & close"
+msgstr "Enregistrer et fermer"
+
+#: controls/form-picker-modal.php:92
+msgid "Edit form"
+msgstr "Modifier le formulaire"
+
+#: controls/form-picker-modal.php:37
+msgid "Enter a form name"
+msgstr "Saisir un nom de formulaire"
+
+#: controls/form-picker-modal.php:24
+msgid "Create new form"
+msgstr "Créer un nouveau formulaire"
+
+#: controls/form-picker-modal.php:13
+msgid "Select saved form"
+msgstr "Sélectionner un formulaire enregistré"
+
+#: controls/form-picker-modal.php:12
+msgid "Select Form"
+msgstr "Sélectionner un formulaire"
+
+#: controls/form-editor-modal.php:14
+msgid "Form settings"
+msgstr "Réglages du formulaire"
+
+#: controls/form-picker-utils.php:43 utils/util.php:624
+msgid "No content is added yet."
+msgstr "Aucun contenu n’est encore ajouté."
+
+#: traits/conditional-controls.php:47
+msgid "Condition match criteria"
+msgstr "Critères de correspondance des conditions"
+
+#: traits/conditional-controls.php:96
+msgid "Match ( comparison )"
+msgstr "Correspond (comparaison)"
+
+#: traits/conditional-controls.php:105
+msgid "greater than equal"
+msgstr "supérieur ou égal"
+
+#: traits/conditional-controls.php:107
+msgid "smaller than equal"
+msgstr "plus petit ou égal"
+
+#: traits/conditional-controls.php:116
+msgid "Match value"
+msgstr "Valeur de correspondance"
+
+#: traits/conditional-controls.php:132
+msgid "Value for set"
+msgstr "Valeur pour l’ensemble"
+
+#: traits/conditional-controls.php:134
+msgid "Enter value for set"
+msgstr "Saisir la valeur de l’ensemble"
+
+#: traits/conditional-controls.php:36
+msgid "This feature only works on the frontend."
+msgstr "Cette fonctionnalité est uniquement visible sur le site en ligne."
+
+#: traits/conditional-controls.php:89
+msgid "Input field name"
+msgstr "Nom du champ d’entrée"
+
+#: traits/conditional-controls.php:135
+msgid "E.g 100, name, anything"
+msgstr "Ex. : 100, nom, n’importe quoi."
+
+#: traits/conditional-controls.php:100
+msgid "not empty"
+msgstr "pas vide"
+
+#: controls/form-picker-modal.php:23
+msgid "New"
+msgstr "Nouvelle"
+
+#: plugin.php:702
+msgid "Update Elementor"
+msgstr "Mettre à jour Elementor"
+
+#: plugin.php:686
+msgid "Install Elementor"
+msgstr "Installer Elementor"
+
+#: plugin.php:679
+msgid "Activate Elementor"
+msgstr "Activer Elementor"
+
+#: traits/button-controls.php:498
+msgid "Vertical Align"
+msgstr "Alignement vertical"
+
+#: traits/button-controls.php:455
+msgid "Font Size"
+msgstr "Taille de police"
+
+#: traits/button-controls.php:334 traits/button-controls.php:357
+msgctxt "Border Control"
+msgid "Color"
+msgstr "Couleur"
+
+#: traits/button-controls.php:308
+msgctxt "Border Control"
+msgid "Width"
+msgstr "Largeur"
+
+#: traits/button-controls.php:296 widgets/switch/switch.php:249
+#: widgets/switch/switch.php:333 widgets/switch/switch.php:430
+#: widgets/switch/switch.php:514
+msgctxt "Border Control"
+msgid "Groove"
+msgstr "Groove"
+
+#: traits/button-controls.php:294 widgets/switch/switch.php:247
+#: widgets/switch/switch.php:331 widgets/switch/switch.php:428
+#: widgets/switch/switch.php:512
+msgctxt "Border Control"
+msgid "Dotted"
+msgstr "Pointillés"
+
+#: traits/button-controls.php:293 widgets/switch/switch.php:246
+#: widgets/switch/switch.php:330 widgets/switch/switch.php:427
+#: widgets/switch/switch.php:511
+msgctxt "Border Control"
+msgid "Double"
+msgstr "Double"
+
+#: traits/button-controls.php:292 widgets/switch/switch.php:245
+#: widgets/switch/switch.php:329 widgets/switch/switch.php:426
+#: widgets/switch/switch.php:510
+msgctxt "Border Control"
+msgid "Solid"
+msgstr "Solide"
+
+#: traits/button-controls.php:291 traits/common-controls.php:146
+#: traits/common-controls.php:177 widgets/switch/switch.php:244
+#: widgets/switch/switch.php:328 widgets/switch/switch.php:425
+#: widgets/switch/switch.php:509
+msgid "None"
+msgstr "Aucun"
+
+#: traits/button-controls.php:288
+msgctxt "Border Control"
+msgid "Border Type"
+msgstr "Type de bordure"
+
+#: traits/button-controls.php:108
+msgid "ID"
+msgstr "ID"
+
+#: traits/button-controls.php:106
+msgid "id"
+msgstr "id"
+
+#: traits/button-controls.php:99
+msgid "Class Name"
+msgstr "Nom de la classe"
+
+#: traits/button-controls.php:97
+msgid "Class"
+msgstr "Classe"
+
+#: traits/button-controls.php:86 traits/quiz-control.php:236
+#: traits/quiz-control.php:520 widgets/file-upload/file-upload.php:90
+msgid "After"
+msgstr "Après"
+
+#: traits/button-controls.php:85 traits/quiz-control.php:237
+#: traits/quiz-control.php:519 widgets/file-upload/file-upload.php:89
+msgid "Before"
+msgstr "Avant"
+
+#: traits/button-controls.php:53 widgets/file-upload/file-upload.php:324
+#: widgets/simple-message/simple-message.php:90
+msgid "Right"
+msgstr "À droite"
+
+#: traits/button-controls.php:49 widgets/simple-message/simple-message.php:86
+msgid "Center"
+msgstr "Au centre"
+
+#: traits/button-controls.php:41
+msgid "Button alignment"
+msgstr "Alignement du bouton"
+
+#: traits/common-controls.php:681 traits/common-controls.php:740
+#: traits/common-controls.php:798 widgets/file-upload/file-upload.php:357
+#: widgets/file-upload/file-upload.php:388 widgets/select/select.php:438
+#: widgets/select/select.php:472 widgets/select/select.php:506
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: traits/common-controls.php:209 widgets/range/range.php:79
+msgid "Min Length"
+msgstr "Longueur mini"
+
+#: traits/common-controls.php:220 widgets/range/range.php:89
+msgid "Max Length"
+msgstr "Longueur maxi"
+
+#: widgets/file-upload/file-upload.php:209
+msgid ".csv"
+msgstr ".csv"
+
+#: widgets/file-upload/file-upload.php:208
+msgid ".zip"
+msgstr ".zip"
+
+#: widgets/file-upload/file-upload.php:207
+msgid ".3g2"
+msgstr ".3g2"
+
+#: widgets/file-upload/file-upload.php:206
+msgid ".3gp"
+msgstr ".3gp"
+
+#: widgets/file-upload/file-upload.php:205
+msgid ".ogv"
+msgstr ".ogv"
+
+#: widgets/file-upload/file-upload.php:204
+msgid ".mpg"
+msgstr ".mpg"
+
+#: widgets/file-upload/file-upload.php:203
+msgid ".avi"
+msgstr ".avi"
+
+#: widgets/file-upload/file-upload.php:202
+msgid ".wmv"
+msgstr ".wmv"
+
+#: widgets/file-upload/file-upload.php:201
+msgid ".mov"
+msgstr ".mov"
+
+#: widgets/file-upload/file-upload.php:200
+msgid ".m4v"
+msgstr ".m4v"
+
+#: widgets/file-upload/file-upload.php:199
+msgid ".mp4"
+msgstr ".mp4"
+
+#: widgets/file-upload/file-upload.php:198
+msgid ".wav"
+msgstr ".wav"
+
+#: widgets/file-upload/file-upload.php:197
+msgid ".ogg"
+msgstr ".ogg"
+
+#: widgets/file-upload/file-upload.php:196
+msgid ".m4a"
+msgstr ".m4a"
+
+#: widgets/file-upload/file-upload.php:195
+msgid ".mp3"
+msgstr ".mp3"
+
+#: widgets/file-upload/file-upload.php:194
+msgid ".psd"
+msgstr ".psd"
+
+#: widgets/file-upload/file-upload.php:193
+msgid ".xlsx"
+msgstr ".xlsx"
+
+#: widgets/file-upload/file-upload.php:192
+msgid ".xls"
+msgstr ".xls"
+
+#: widgets/file-upload/file-upload.php:191
+msgid ".odt"
+msgstr ".odt"
+
+#: widgets/file-upload/file-upload.php:190
+msgid ".ppsx"
+msgstr ".ppsx"
+
+#: widgets/file-upload/file-upload.php:189
+msgid ".pps"
+msgstr ".pps"
+
+#: widgets/file-upload/file-upload.php:188
+msgid ".pptx"
+msgstr ".pptx"
+
+#: widgets/file-upload/file-upload.php:187
+msgid ".ppt"
+msgstr ".ppt"
+
+#: widgets/file-upload/file-upload.php:186
+msgid ".docx"
+msgstr ".docx"
+
+#: widgets/file-upload/file-upload.php:185
+msgid ".doc"
+msgstr ".doc"
+
+#: widgets/file-upload/file-upload.php:184
+msgid ".pdf"
+msgstr ".pdf"
+
+#: widgets/file-upload/file-upload.php:183
+msgid ".ico"
+msgstr ".ico"
+
+#: widgets/file-upload/file-upload.php:182
+msgid ".png"
+msgstr ".png"
+
+#: widgets/file-upload/file-upload.php:181
+msgid ".gif"
+msgstr ".gif"
+
+#: widgets/file-upload/file-upload.php:180
+msgid ".jpeg"
+msgstr ".jpeg"
+
+#: widgets/file-upload/file-upload.php:179
+msgid ".jpg"
+msgstr ".jpg"
+
+#: widgets/file-upload/file-upload.php:175
+msgid "File Types : "
+msgstr "Types de fichier : "
+
+#: widgets/file-upload/file-upload.php:153
+msgid "128"
+msgstr "128"
+
+#: widgets/file-upload/file-upload.php:138
+msgid "File Size Limit : "
+msgstr "Taille maxi du fichier : "
+
+#: widgets/file-upload/file-upload.php:20
+msgid "File Upload"
+msgstr "Téléverser le fichier"
+
+#: core/integrations/onboard/views/onboard-steps/step-05.php:13
+#: widgets/manifest.php:226
+msgid "Metform"
+msgstr "MetForm"
+
+#: widgets/text/text.php:21
+msgid "Text"
+msgstr "Texte"
+
+#: widgets/form-basic.php:58
+msgid "Select Form : "
+msgstr "Formulaire sélectionné : "
+
+#: widgets/textarea/textarea.php:21
+msgid "Textarea"
+msgstr "Zone de texte"
+
+#: widgets/password/password.php:16
+msgid "Password"
+msgstr "Mot de passe"
+
+#: widgets/range/range.php:386
+msgid "Counter"
+msgstr "Compteur"
+
+#: widgets/range/range.php:100
+msgid "Steps"
+msgstr "étapes"
+
+#: widgets/range/range.php:20 widgets/range/range.php:295
+msgid "Range Slider"
+msgstr "Curseur de choix"
+
+#: widgets/url/url.php:20 build/admin/form-analytics/index.js:1
+msgid "URL"
+msgstr "URL"
+
+#: widgets/date/date.php:383
+msgid "YY.DD"
+msgstr "YY.DD"
+
+#: widgets/date/date.php:382
+msgid "DD.YY"
+msgstr "DD.YY"
+
+#: widgets/date/date.php:381
+msgid "YY-DD"
+msgstr "YY-DD"
+
+#: widgets/date/date.php:380
+msgid "DD-YY"
+msgstr "DD-YY"
+
+#: widgets/date/date.php:349
+msgid "YY.MM"
+msgstr "YY.MM"
+
+#: widgets/date/date.php:348
+msgid "MM.YY"
+msgstr "MM.YY"
+
+#: widgets/date/date.php:347
+msgid "YY-MM"
+msgstr "YY-DD"
+
+#: widgets/date/date.php:346
+msgid "MM-YY"
+msgstr "MM-YY"
+
+#: widgets/date/date.php:315
+msgid "DD.MM"
+msgstr "DD.MM"
+
+#: widgets/date/date.php:314
+msgid "MM.DD"
+msgstr "MM.DD"
+
+#: widgets/date/date.php:313
+msgid "DD-MM"
+msgstr "DD-MM"
+
+#: widgets/date/date.php:312
+msgid "MM-DD"
+msgstr "MM-DD"
+
+#: widgets/date/date.php:270
+msgid "MM.DD.YYYY"
+msgstr "MM.DD.YYYY"
+
+#: widgets/date/date.php:269
+msgid "DD.MM.YYYY"
+msgstr "DD.MM.YYYY"
+
+#: widgets/date/date.php:268
+msgid "YYYY.MM.DD"
+msgstr "YYYY.MM.DD"
+
+#: widgets/date/date.php:267
+msgid "MM-DD-YYYY"
+msgstr "MM-DD-YYYY"
+
+#: widgets/date/date.php:266
+msgid "DD-MM-YYYY"
+msgstr "DD-MM-YYYY"
+
+#: widgets/date/date.php:265
+msgid "YYYY-MM-DD"
+msgstr "AAAA-MM-JJ"
+
+#: widgets/date/date.php:249
+msgid "Date input ?"
+msgstr "Entrée de date ?"
+
+#: widgets/date/date.php:237
+msgid "Month input ?"
+msgstr "Entrée de mois ?"
+
+#: widgets/date/date.php:225
+msgid "Year input ?"
+msgstr "Entrée d’année ?"
+
+#: widgets/date/date.php:32
+msgid "Date"
+msgstr "Date"
+
+#: traits/button-controls.php:72 traits/quiz-control.php:499
+#: widgets/button/button.php:114
+msgid "Icon"
+msgstr "Icône"
+
+#: widgets/button/button.php:102
+msgid "Shadow"
+msgstr "Ombre"
+
+#: widgets/button/button.php:75
+msgid "Button"
+msgstr "Bouton"
+
+#: widgets/button/button.php:64
+msgid "Hidden"
+msgstr "Masqué"
+
+#: widgets/button/button.php:24
+msgid "Submit Button"
+msgstr "Bouton d’envoi"
+
+#: widgets/time/time.php:83
+msgid "Use time 24H"
+msgstr "Utiliser le temps sur 24H"
+
+#: widgets/time/time.php:24
+msgid "Time"
+msgstr "Horaire"
+
+#: widgets/radio/radio.php:340 widgets/radio/radio.php:364
+msgid "Radio Color"
+msgstr "Couleur des boutons radio"
+
+#: widgets/radio/radio.php:164
+msgid "Radio Options"
+msgstr "Options des boutons radio"
+
+#: core/entries/hooks.php:87 traits/common-controls.php:137
+#: traits/common-controls.php:978 traits/quiz-control.php:304
+#: traits/quiz-control.php:394 traits/quiz-control.php:477
+#: traits/quiz-control.php:620 widgets/checkbox/checkbox.php:150
+#: widgets/date/date.php:154 widgets/date/date.php:216
+#: widgets/date/date.php:228 widgets/date/date.php:240
+#: widgets/date/date.php:252 widgets/date/date.php:413
+#: widgets/date/date.php:425 widgets/email/email.php:69
+#: widgets/email/email.php:97 widgets/multi-select/multi-select.php:109
+#: widgets/number/number.php:65 widgets/radio/radio.php:155
+#: widgets/range/range.php:112 widgets/range/range.php:158
+#: widgets/range/range.php:183 widgets/select/select.php:110
+#: widgets/switch/switch.php:69 widgets/time/time.php:86
+msgid "No"
+msgstr "Non"
+
+#: core/entries/hooks.php:85 traits/common-controls.php:136
+#: traits/common-controls.php:977 traits/quiz-control.php:303
+#: traits/quiz-control.php:393 traits/quiz-control.php:476
+#: traits/quiz-control.php:619 widgets/checkbox/checkbox.php:149
+#: widgets/date/date.php:153 widgets/date/date.php:215
+#: widgets/date/date.php:227 widgets/date/date.php:239
+#: widgets/date/date.php:251 widgets/date/date.php:412
+#: widgets/date/date.php:424 widgets/email/email.php:68
+#: widgets/email/email.php:96 widgets/multi-select/multi-select.php:108
+#: widgets/number/number.php:64 widgets/radio/radio.php:154
+#: widgets/range/range.php:111 widgets/range/range.php:157
+#: widgets/range/range.php:182 widgets/select/select.php:109
+#: widgets/switch/switch.php:60 widgets/time/time.php:85
+msgid "Yes"
+msgstr "Oui"
+
+#: widgets/radio/radio.php:105
+msgid "Before Radio"
+msgstr "Avant le bouton radio"
+
+#: widgets/radio/radio.php:104
+msgid "After Radio"
+msgstr "Après le bouton radio"
+
+#: widgets/radio/radio.php:94
+msgid "Radio option display style."
+msgstr "Style d’affichage des options de boutons radio."
+
+#: widgets/radio/radio.php:29 widgets/radio/radio.php:264
+msgid "Radio"
+msgstr "Bouton radio"
+
+#: widgets/email/email.php:26
+msgid "Email"
+msgstr "E-mail"
+
+#: widgets/select/select.php:132
+msgid "Dropdown List"
+msgstr "Liste déroulante"
+
+#: widgets/select/select.php:21 widgets/select/select.php:278
+#: build/admin/admin-shell/index.js:1
+msgid "Select"
+msgstr "Sélectionner"
+
+#: widgets/listing-fname/listing-fname.php:20
+msgid "First Name (Listing)"
+msgstr "Prénom (liste)"
+
+#: traits/common-controls.php:72
+msgid "Name : "
+msgstr "Nom : "
+
+#: traits/common-controls.php:276 traits/common-controls.php:878
+#: widgets/range/range.php:471 widgets/rating/rating.php:288
+#: widgets/select/select.php:335 widgets/switch/switch.php:178
+msgid "Box Shadow"
+msgstr "Ombre de boite"
+
+#: traits/button-controls.php:255 traits/common-controls.php:765
+msgid "Focus"
+msgstr "Focus"
+
+#: traits/common-controls.php:284 traits/common-controls.php:694
+#: traits/common-controls.php:752 traits/common-controls.php:812
+#: widgets/button/button.php:90 widgets/file-upload/file-upload.php:436
+#: widgets/rating/rating.php:191 widgets/rating/rating.php:224
+#: widgets/select/select.php:326 widgets/select/select.php:405
+msgid "Border"
+msgstr "Bordure"
+
+#: traits/common-controls.php:650 traits/common-controls.php:713
+#: traits/common-controls.php:772 widgets/rating/rating.php:175
+#: widgets/rating/rating.php:208
+msgid "Input Color"
+msgstr "Couleur du texte de champ"
+
+#: traits/button-controls.php:196 traits/button-controls.php:324
+#: traits/button-controls.php:405 traits/common-controls.php:643
+#: widgets/checkbox/checkbox.php:308 widgets/file-upload/file-upload.php:337
+#: widgets/gdpr-consent/gdpr-consent.php:353
+#: widgets/listing-optin/listing-optin.php:193 widgets/radio/radio.php:333
+#: widgets/rating/rating.php:168 widgets/select/select.php:415
+msgid "Normal"
+msgstr "Normal"
+
+#: widgets/range/range.php:264 widgets/range/range.php:322
+#: widgets/range/range.php:425 widgets/switch/switch.php:161
+#: widgets/textarea/textarea.php:114
+msgid "Height"
+msgstr "Hauteur"
+
+#: traits/common-controls.php:323 traits/common-controls.php:515
+#: widgets/gdpr-consent/gdpr-consent.php:157 widgets/range/range.php:249
+#: widgets/range/range.php:304 widgets/range/range.php:403
+#: widgets/simple-captcha/simple-captcha.php:143 widgets/switch/switch.php:144
+msgid "Width"
+msgstr "Largeur"
+
+#: widgets/switch/switch.php:20
+msgid "Switch"
+msgstr "Commutateur"
+
+#: widgets/checkbox/checkbox.php:315 widgets/checkbox/checkbox.php:339
+#: widgets/gdpr-consent/gdpr-consent.php:360
+#: widgets/gdpr-consent/gdpr-consent.php:384
+#: widgets/listing-optin/listing-optin.php:200
+#: widgets/listing-optin/listing-optin.php:224
+msgid "Checkbox Color"
+msgstr "Couleur de la case à cocher"
+
+#: traits/button-controls.php:203 traits/button-controls.php:232
+#: traits/button-controls.php:262 widgets/checkbox/checkbox.php:290
+#: widgets/gdpr-consent/gdpr-consent.php:335
+#: widgets/listing-optin/listing-optin.php:175 widgets/radio/radio.php:316
+#: widgets/switch/switch.php:229 widgets/switch/switch.php:410
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: traits/button-controls.php:178 traits/common-controls.php:373
+#: traits/common-controls.php:565 traits/common-controls.php:834
+#: traits/common-controls.php:890 traits/common-controls.php:933
+#: widgets/email/email.php:194 widgets/gdpr-consent/gdpr-consent.php:207
+#: widgets/range/range.php:395 widgets/rating/rating.php:275
+#: widgets/simple-captcha/simple-captcha.php:189
+#: widgets/simple-message/simple-message.php:119 widgets/switch/switch.php:205
+#: widgets/switch/switch.php:387
+msgid "Typography"
+msgstr "Typographie"
+
+#: core/integrations/onboard/views/settings-sections/usersettings.php:304
+#: traits/common-controls.php:355 traits/common-controls.php:547
+#: traits/common-controls.php:903 traits/common-controls.php:944
+#: widgets/email/email.php:179 widgets/file-upload/file-upload.php:344
+#: widgets/file-upload/file-upload.php:375
+#: widgets/gdpr-consent/gdpr-consent.php:189 widgets/select/select.php:422
+#: widgets/select/select.php:456 widgets/select/select.php:490
+#: widgets/simple-captcha/simple-captcha.php:171
+#: widgets/simple-captcha/simple-captcha.php:308
+#: widgets/simple-message/simple-message.php:104 widgets/switch/switch.php:213
+#: widgets/switch/switch.php:395
+msgid "Color"
+msgstr "Couleur"
+
+#: traits/common-controls.php:123 widgets/simple-captcha/simple-captcha.php:126
+msgid "Type your help text here"
+msgstr "Saisir le texte de l’aide ici"
+
+#: traits/common-controls.php:120 traits/quiz-control.php:161
+#: widgets/simple-captcha/simple-captcha.php:123
+msgid "Help Text : "
+msgstr "Texte d’aide : "
+
+#: widgets/checkbox/checkbox.php:159
+msgid "Checkbox Options"
+msgstr "Options de case à cocher"
+
+#: traits/quiz-control.php:275 traits/quiz-control.php:277
+#: traits/quiz-control.php:364 traits/quiz-control.php:446
+#: traits/quiz-control.php:591 traits/quiz-control.php:593
+#: widgets/checkbox/checkbox.php:121 widgets/checkbox/checkbox.php:123
+#: widgets/radio/radio.php:126 widgets/radio/radio.php:128
+msgid "Option Value"
+msgstr "Valeur de l’option"
+
+#: traits/quiz-control.php:265 traits/quiz-control.php:267
+#: traits/quiz-control.php:355 widgets/checkbox/checkbox.php:113
+#: widgets/radio/radio.php:118
+msgid "Option Text"
+msgstr "Texte de l’option"
+
+#: widgets/checkbox/checkbox.php:103 widgets/gdpr-consent/gdpr-consent.php:83
+#: widgets/listing-optin/listing-optin.php:66 widgets/radio/radio.php:108
+msgid "Where do you want to label?"
+msgstr "Où voulez-vous voir les libellés ?"
+
+#: widgets/checkbox/checkbox.php:100 widgets/gdpr-consent/gdpr-consent.php:80
+#: widgets/listing-optin/listing-optin.php:63
+msgid "Before Checkbox"
+msgstr "Avant la case à cocher"
+
+#: widgets/checkbox/checkbox.php:99 widgets/gdpr-consent/gdpr-consent.php:79
+#: widgets/listing-optin/listing-optin.php:62
+msgid "After Checkbox"
+msgstr "Après la case à cocher"
+
+#: traits/quiz-control.php:176 traits/quiz-control.php:197
+#: widgets/checkbox/checkbox.php:83 widgets/gdpr-consent/gdpr-consent.php:63
+#: widgets/radio/radio.php:88
+msgid "Vertical"
+msgstr "Vertical"
+
+#: traits/quiz-control.php:175 traits/quiz-control.php:196
+#: widgets/checkbox/checkbox.php:82 widgets/gdpr-consent/gdpr-consent.php:62
+#: widgets/radio/radio.php:87
+msgid "Horizontal"
+msgstr "Horizontale"
+
+#: traits/common-controls.php:41 widgets/file-upload/file-upload.php:91
+#: widgets/range/range.php:338 widgets/simple-captcha/simple-captcha.php:78
+msgid "Top"
+msgstr "En haut"
+
+#: traits/common-controls.php:37 widgets/file-upload/file-upload.php:320
+msgid "Position"
+msgstr "Position"
+
+#: traits/common-controls.php:27 traits/quiz-control.php:489
+#: widgets/simple-captcha/simple-captcha.php:64
+msgid "Hide"
+msgstr "Masquer"
+
+#: traits/common-controls.php:24 widgets/simple-captcha/simple-captcha.php:61
+msgid "Show Label"
+msgstr "Afficher le libellé"
+
+#: widgets/number/number.php:20
+msgid "Number"
+msgstr "Nombre"
+
+#: widgets/checkbox/checkbox.php:424 widgets/date/date.php:658
+#: widgets/email/email.php:229 widgets/file-upload/file-upload.php:459
+#: widgets/gdpr-consent/gdpr-consent.php:468
+#: widgets/listing-fname/listing-fname.php:131
+#: widgets/listing-lname/listing-lname.php:131
+#: widgets/listing-optin/listing-optin.php:308
+#: widgets/multi-select/multi-select.php:238 widgets/number/number.php:157
+#: widgets/password/password.php:129 widgets/radio/radio.php:450
+#: widgets/range/range.php:482 widgets/rating/rating.php:298
+#: widgets/select/select.php:533 widgets/simple-captcha/simple-captcha.php:358
+#: widgets/summary/summary.php:76 widgets/switch/switch.php:565
+#: widgets/telephone/telephone.php:130 widgets/text/text.php:148
+#: widgets/textarea/textarea.php:153 widgets/time/time.php:153
+#: widgets/url/url.php:139
+msgid "Help Text"
+msgstr "Texte d’aide"
+
+#: widgets/date/date.php:472 widgets/email/email.php:147
+#: widgets/file-upload/file-upload.php:258
+#: widgets/listing-fname/listing-fname.php:107
+#: widgets/listing-lname/listing-lname.php:107
+#: widgets/multi-select/multi-select.php:214 widgets/number/number.php:133
+#: widgets/password/password.php:105 widgets/rating/rating.php:127
+#: widgets/simple-captcha/simple-captcha.php:325 widgets/switch/switch.php:136
+#: widgets/telephone/telephone.php:106 widgets/text/text.php:124
+#: widgets/textarea/textarea.php:106 widgets/time/time.php:129
+#: widgets/url/url.php:115
+msgid "Input"
+msgstr "Entrée"
+
+#: widgets/multi-select/multi-select.php:118
+msgid "Multi Select List"
+msgstr "Liste à sélection multiple"
+
+#: widgets/checkbox/checkbox.php:135 widgets/multi-select/multi-select.php:96
+#: widgets/radio/radio.php:140 widgets/select/select.php:97
+msgid "Disable"
+msgstr "Désactiver"
+
+#: traits/conditional-controls.php:33 widgets/multi-select/multi-select.php:95
+#: widgets/select/select.php:96
+msgid "Enable"
+msgstr "Activer"
+
+#: widgets/multi-select/multi-select.php:21
+msgid "Multi Select"
+msgstr "Sélection multiple"
+
+#: core/forms/views/modal-editor.php:1322
+msgid "Save changes"
+msgstr "Enregistrer les modifications"
+
+#: core/forms/views/modal-editor.php:1320
+msgid "Edit content"
+msgstr "Modifier le contenu"
+
+#: traits/button-controls.php:19 traits/quiz-control.php:31
+#: traits/quiz-control.php:52 widgets/checkbox/checkbox.php:221
+#: widgets/checkbox/checkbox.php:231 widgets/date/date.php:445
+#: widgets/email/email.php:118 widgets/file-upload/file-upload.php:231
+#: widgets/listing-fname/listing-fname.php:80
+#: widgets/listing-lname/listing-lname.php:80
+#: widgets/multi-select/multi-select.php:178
+#: widgets/multi-select/multi-select.php:186 widgets/number/number.php:106
+#: widgets/password/password.php:78 widgets/radio/radio.php:226
+#: widgets/radio/radio.php:236 widgets/range/range.php:214
+#: widgets/rating/rating.php:100 widgets/recaptcha/recaptcha.php:75
+#: widgets/select/select.php:241 widgets/select/select.php:250
+#: widgets/simple-captcha/simple-captcha.php:135 widgets/summary/summary.php:61
+#: widgets/switch/switch.php:108 widgets/telephone/telephone.php:79
+#: widgets/text/text.php:86 widgets/text/text.php:96
+#: widgets/textarea/textarea.php:79 widgets/time/time.php:102
+#: widgets/url/url.php:88
+msgid "Label"
+msgstr "Libellé"
+
+#: core/admin/base.php:82 core/forms/hooks.php:160 plugin.php:432
+#: traits/button-controls.php:32 widgets/checkbox/checkbox.php:191
+#: widgets/date/date.php:132 widgets/email/email.php:85
+#: widgets/file-upload/file-upload.php:108
+#: widgets/gdpr-consent/gdpr-consent.php:105
+#: widgets/listing-fname/listing-fname.php:60
+#: widgets/listing-lname/listing-lname.php:60
+#: widgets/listing-optin/listing-optin.php:86
+#: widgets/multi-select/multi-select.php:150 widgets/number/number.php:88
+#: widgets/password/password.php:60 widgets/radio/radio.php:196
+#: widgets/range/range.php:60 widgets/rating/rating.php:60
+#: widgets/select/select.php:213 widgets/switch/switch.php:78
+#: widgets/telephone/telephone.php:61 widgets/text/text.php:66
+#: widgets/textarea/textarea.php:61 widgets/time/time.php:64
+#: widgets/url/url.php:61
+msgid "Settings"
+msgstr "Réglages"
+
+#: widgets/button/button.php:48 widgets/checkbox/checkbox.php:58
+#: widgets/checkbox/checkbox.php:68 widgets/date/date.php:120
+#: widgets/email/email.php:58 widgets/file-upload/file-upload.php:49
+#: widgets/form-basic.php:49 widgets/gdpr-consent/gdpr-consent.php:48
+#: widgets/listing-fname/listing-fname.php:48
+#: widgets/listing-lname/listing-lname.php:48
+#: widgets/listing-optin/listing-optin.php:48
+#: widgets/multi-select/multi-select.php:51
+#: widgets/multi-select/multi-select.php:61 widgets/number/number.php:48
+#: widgets/password/password.php:48 widgets/radio/radio.php:61
+#: widgets/radio/radio.php:72 widgets/range/range.php:48
+#: widgets/rating/rating.php:48 widgets/recaptcha/recaptcha.php:48
+#: widgets/select/select.php:51 widgets/select/select.php:61
+#: widgets/simple-captcha/simple-captcha.php:53
+#: widgets/simple-message/simple-message.php:49 widgets/summary/summary.php:48
+#: widgets/switch/switch.php:48 widgets/telephone/telephone.php:49
+#: widgets/text/text.php:51 widgets/textarea/textarea.php:49
+#: widgets/time/time.php:52 widgets/url/url.php:49
+msgid "Content"
+msgstr "Contenu"
+
+#: core/admin/views/settings.php:521 core/admin/views/settings.php:531
+#: core/admin/views/settings.php:546 core/admin/views/settings.php:556
+#: core/admin/views/settings.php:604 core/admin/views/settings.php:614
+#: core/admin/views/settings.php:717 core/admin/views/settings.php:886
+#: core/admin/views/settings.php:894 core/admin/views/settings.php:963
+#: core/admin/views/settings.php:971 core/admin/views/settings.php:990
+#: core/admin/views/settings.php:997 core/admin/views/settings.php:1222
+#: core/admin/views/settings.php:1231
+msgid "Create from here"
+msgstr "Créer à partir d’ici"
+
+#: core/admin/views/settings.php:517 core/admin/views/settings.php:542
+msgid "Site key:"
+msgstr "Clé du site :"
+
+#: core/forms/views/modal-editor.php:571 core/forms/views/modal-editor.php:584
+msgid "Slack:"
+msgstr "Slack :"
+
+#: core/forms/views/modal-editor.php:1040
+msgid "Zapier webhook"
+msgstr "Crochet Web Zapier"
+
+#: core/forms/views/modal-editor.php:1039
+msgid "Zapier webhook:"
+msgstr "Crochet Web Zapier :"
+
+#: core/forms/views/modal-editor.php:883 core/forms/views/modal-editor.php:1033
+msgid "Zapier:"
+msgstr "Zapier :"
+
+#: core/forms/views/modal-editor.php:537 core/forms/views/modal-editor.php:560
+msgid "Mail Chimp:"
+msgstr "Mail Chimp :"
+
+#: core/forms/views/modal-editor.php:439
+msgid "Email reply to"
+msgstr "E-mail de réponse à"
+
+#: core/forms/views/modal-editor.php:433
+msgid "Email from"
+msgstr "E-mail de l’expéditeur"
+
+#: core/forms/views/modal-editor.php:427
+msgid "example@mail.com, example@email.com"
+msgstr "exemple@mail.com, exemple@mail.com"
+
+#: core/forms/views/modal-editor.php:380
+msgid "Thank you message!"
+msgstr "Message de remerciement !"
+
+#: core/forms/views/modal-editor.php:379
+msgid "Thank you message :"
+msgstr "Message de remerciement :"
+
+#: core/forms/views/modal-editor.php:374
+msgid "Reply to email"
+msgstr "Répondre à l’e-mail"
+
+#: core/forms/views/modal-editor.php:373 core/forms/views/modal-editor.php:438
+msgid "Email Reply To:"
+msgstr "E-mail de réponse à :"
+
+#: core/forms/views/modal-editor.php:368
+msgid "From email"
+msgstr "E-mail de l’expéditeur"
+
+#: core/forms/views/modal-editor.php:367 core/forms/views/modal-editor.php:432
+msgid "Email From:"
+msgstr "E-mail de l’expéditeur :"
+
+#: core/forms/views/modal-editor.php:363 core/forms/views/modal-editor.php:422
+msgid "Enter here email subject."
+msgstr "Saisir le sujet de l’e-mail ici."
+
+#: core/forms/views/modal-editor.php:362 core/forms/views/modal-editor.php:421
+msgid "Email subject"
+msgstr "Sujet de l’e-mail"
+
+#: core/forms/views/modal-editor.php:306
+msgid "Users will be redirected to the this link after submission."
+msgstr "Les utilisateurs seront redirigés vers ce lien après l’envoi."
+
+#: core/forms/views/modal-editor.php:305
+msgid "Redirection link"
+msgstr "Lien de redirection"
+
+#: core/forms/views/modal-editor.php:304
+msgid "Redirect To:"
+msgstr "Rediriger vers :"
+
+#: core/forms/views/modal-editor.php:149
+msgid "Capture User Browser Data:"
+msgstr "Capturer les données du navigateur utilisateur :"
+
+#: core/forms/views/modal-editor.php:135 core/forms/views/modal-editor.php:140
+msgid "Without login, users can't submit the form."
+msgstr "Sans connexion, les utilisateurs ne peuvent pas envoyer le formulaire."
+
+#: core/forms/views/modal-editor.php:108
+msgid "Success Message:"
+msgstr "Message de confirmation :"
+
+#: core/forms/views/modal-editor.php:104
+msgid "This is the form title"
+msgstr "C’est le titre du formulaire"
+
+#: core/forms/views/modal-editor.php:103
+msgid "New Form # "
+msgstr "Nouveau formulaire # "
+
+#: core/forms/views/modal-editor.php:102
+msgid "Title:"
+msgstr "Titre :"
+
+#: core/forms/views/modal-editor.php:83
+msgid "Integration"
+msgstr "Intégration"
+
+#: core/forms/views/modal-editor.php:81
+msgid "Notification"
+msgstr "Notification"
+
+#: core/forms/views/modal-editor.php:79
+msgid "Confirmation"
+msgstr "Confirmation"
+
+#: core/admin/views/settings.php:123 core/forms/views/modal-editor.php:77
+#: build/admin/add-new-form-modal/index.js:1
+#: build/admin/form-analytics/index.js:1
+#: build/admin/form-picker-modal/index.js:1
+msgid "General"
+msgstr "Général"
+
+#: core/forms/views/modal-editor.php:71
+msgid "Form Settings"
+msgstr "Réglages du formulaire"
+
+#: core/forms/cpt.php:583
+msgid "metform form"
+msgstr "formulaire MetForm"
+
+#: core/forms/cpt.php:571
+msgid "Forms list"
+msgstr "Liste des formulaires"
+
+#: core/forms/cpt.php:570
+msgid "Uploaded to this form"
+msgstr "Téléversé sur ce formulaire"
+
+#: core/forms/cpt.php:562 plugin.php:610
+msgid "Search Forms"
+msgstr "Rechercher des formulaires"
+
+#: core/forms/cpt.php:561
+msgid "View Forms"
+msgstr "Voir les formulaires"
+
+#: core/forms/cpt.php:560
+msgid "View Form"
+msgstr "Voir le formulaire"
+
+#: core/forms/cpt.php:559
+msgid "Update Form"
+msgstr "Mettre à jour le formulaire"
+
+#: core/forms/cpt.php:558 widgets/form.php:74
+#: build/admin/form-picker-modal/index.js:1
+msgid "Edit Form"
+msgstr "Modifier le formulaire"
+
+#: core/forms/cpt.php:557
+msgid "New Form"
+msgstr "Nouveau formulaire"
+
+#: core/forms/cpt.php:555
+msgid "Add New Form"
+msgstr "Ajouter un nouveau formulaire"
+
+#: core/forms/cpt.php:554 core/forms/cpt.php:582
+msgid "Forms"
+msgstr "Formulaires"
+
+#: core/forms/cpt.php:549 core/forms/cpt.php:550 widgets/form.php:56
+msgid "Form"
+msgstr "Formulaire"
+
+#: core/forms/cpt.php:548
+msgctxt "Post Type Singular Name"
+msgid "Form"
+msgstr "Formulaire"
+
+#: core/forms/cpt.php:547
+msgctxt "Post Type General Name"
+msgid "Forms"
+msgstr "Formulaires"
+
+#: core/forms/hooks.php:42
+msgid "Shortcode"
+msgstr "Code-court"
+
+#: core/entries/hooks.php:114 core/entries/meta-data.php:260
+#: core/forms/hooks.php:159
+msgid "View"
+msgstr "Afficher"
+
+#: core/entries/form-data.php:501 core/entries/meta-data.php:256
+msgid "Download"
+msgstr "Télécharger"
+
+#: core/entries/meta-data.php:194
+msgid "Files"
+msgstr "Fichiers"
+
+#: core/entries/meta-data.php:180
+msgid "Browser data not captured."
+msgstr "Données du navigateur non capturées."
+
+#: core/entries/meta-data.php:160
+msgid "Browser Data"
+msgstr "Données du navigateur"
+
+#: core/entries/meta-data.php:132
+msgid "Data"
+msgstr "Données"
+
+#: core/entries/action.php:279
+msgid "You must be logged in to submit form."
+msgstr "Vous devez être connecté pour envoyer le formulaire."
+
+#: core/entries/action.php:82 core/entries/action.php:88
+#: core/entries/action.php:171 core/entries/action.php:651
+msgid "Unauthorized submission."
+msgstr "Envoi non autorisé."
+
+#: traits/common-controls.php:84 traits/quiz-control.php:40
+msgid "Name"
+msgstr "Nom"
+
+#: core/entries/cpt.php:44
+msgid "Form entry"
+msgstr "Entrée du formulaire"
+
+#: core/entries/cpt.php:37
+msgid "Uploaded to this item"
+msgstr "Téléversé sur cet élément"
+
+#: core/entries/cpt.php:36
+msgid "Insert into item"
+msgstr "Insérer dans l’élément"
+
+#: core/entries/cpt.php:35 core/forms/cpt.php:568
+msgid "Use as featured image"
+msgstr "Utiliser comme image mise à la une"
+
+#: core/entries/cpt.php:34 core/forms/cpt.php:567
+msgid "Remove featured image"
+msgstr "Retirer l’image à la une"
+
+#: core/entries/cpt.php:33 core/forms/cpt.php:566
+msgid "Set featured image"
+msgstr "Définir comme image à la une"
+
+#: core/entries/cpt.php:31 core/forms/cpt.php:564
+msgid "Not found in Trash"
+msgstr "Non trouvé dans la corbeille"
+
+#: core/entries/cpt.php:30 core/forms/cpt.php:563
+msgid "Not found"
+msgstr "Non trouvé"
+
+#: core/entries/cpt.php:29 plugin.php:598
+msgid "Search Item"
+msgstr "Rechercher un élément"
+
+#: core/entries/cpt.php:28
+msgid "View Items"
+msgstr "Voir les éléments"
+
+#: core/entries/cpt.php:27
+msgid "View Item"
+msgstr "Voir l’élément"
+
+#: core/entries/cpt.php:26
+msgid "Update Item"
+msgstr "Mettre à jour l’élément"
+
+#: core/entries/cpt.php:25
+msgid "Edit Item"
+msgstr "Modifier l’élément"
+
+#: core/entries/cpt.php:24
+msgid "New Item"
+msgstr "Nouvel élément"
+
+#: core/entries/cpt.php:22
+msgid "Add New Item"
+msgstr "Ajouter un nouvel élément"
+
+#: core/entries/cpt.php:21 core/forms/hooks.php:43
+msgid "Entries"
+msgstr "Entrées"
+
+#: core/entries/cpt.php:20 core/forms/cpt.php:553
+msgid "Parent Item:"
+msgstr "Élément parent :"
+
+#: core/entries/cpt.php:16 core/entries/cpt.php:17
+msgid "Entry"
+msgstr "Entrée"
+
+#: core/entries/cpt.php:15
+msgctxt "Post Type Singular Name"
+msgid "Entry"
+msgstr "Entrée"
+
+#: core/entries/cpt.php:14
+msgctxt "Post Type General Name"
+msgid "Entries"
+msgstr "Entrées"
+
+#: core/entries/hooks.php:39
+msgid "Form Name"
+msgstr "Nom du formulaire"
+
+#: controls/form-picker-utils.php:36 core/entries/meta-data.php:406
+#: core/entries/meta-data.php:422 core/entries/meta-data.php:441
+msgid "Edit"
+msgstr "Modifier"
+
+#: controls/form-editor-modal.php:46
+msgid "Loading"
+msgstr "Chargement"
+
+#: controls/form-editor-modal.php:20 controls/form-editor-modal.php:21
+#: controls/form-picker-modal.php:95 utils/feedback/plugin-unsubscribe.php:240
+#: build/admin/add-new-form-modal/index.js:1
+#: build/admin/form-picker-modal/index.js:1
+msgid "Close"
+msgstr "Fermer"
+
+#. Plugin Name of the plugin
+#: metform.php controls/form-editor-modal.php:12 plugin.php:661 plugin.php:662
+#: widgets/form.php:31
+msgid "MetForm"
+msgstr "MetForm"
+
+#. Author URI of the plugin
+#: metform.php
+msgid "https://wpmet.com"
+msgstr "https://wpmet.com"
+
+#. Author of the plugin
+#: metform.php
+msgid "Wpmet"
+msgstr "Wpmet"
+
+#: core/entries/action.php:1273
+msgid "Admin mail not found to send email."
+msgstr "E-mail d’administration non trouvé pour envoyer l’e-mail."
+
+#: core/forms/cpt.php:551
+msgid "Form Archives"
+msgstr "Archives de formulaire"
+
+#: core/forms/cpt.php:552
+msgid "Form Attributes"
+msgstr "Attributs du formulaire"
+
+#: core/forms/cpt.php:569
+msgid "Insert into form"
+msgstr "Insérer dans le formulaire"
+
+#: core/forms/cpt.php:572
+msgid "Forms list navigation"
+msgstr "Navigation dans la liste des formulaires"
+
+#: core/forms/builder.php:38 core/forms/views/modal-editor.php:109
+msgid "Thank you! Form submitted successfully."
+msgstr "Je vous remercie ! Formulaire bien envoyé."
+
+#: core/forms/views/modal-editor.php:151 core/forms/views/modal-editor.php:156
+msgid "Store user's browser data (ip, browser name, etc)"
+msgstr "Stocker les données du navigateur de l’utilisateur (IP, nom du navigateur, etc.)"
+
+#: core/forms/views/modal-editor.php:164
+msgid "Hide Form After Submission:"
+msgstr "Masquer le formulaire après l’envoi :"
+
+#: core/forms/views/modal-editor.php:166
+msgid "After submission, hide the form for preventing multiple submission."
+msgstr "Après l’envoi, masquez le formulaire pour empêcher l’envoi multiple."
+
+#: core/forms/views/modal-editor.php:175
+msgid "Save submitted form data to database."
+msgstr "Enregistrer les données des formulaires envoyés dans la base de données."
+
+#: core/forms/views/modal-editor.php:196 core/forms/views/modal-editor.php:201
+msgid "Limit the total number of submissions for this form."
+msgstr "Limiter le nombre total d’envois pour ce formulaire."
+
+#: core/forms/views/modal-editor.php:341
+msgid "Confirmation mail to user :"
+msgstr "E-mail de confirmation à l’utilisateur :"
+
+#: core/forms/views/modal-editor.php:361 core/forms/views/modal-editor.php:420
+msgid "Email Subject:"
+msgstr "Sujet de l’e-mail :"
+
+#: core/forms/views/modal-editor.php:375
+msgid "Enter email where user can reply/ you want to get reply."
+msgstr "Saisir l’adresse e-mail à laquelle l’utilisateur peut répondre/vous souhaitez obtenir une réponse."
+
+#: core/forms/views/modal-editor.php:381
+msgid "Enter here your message to include it in email body. Which will be send to user."
+msgstr "Saisir ici le message pour l’inclure dans le corps de l’e-mail qui sera envoyé à l’utilisateur."
+
+#: core/forms/views/modal-editor.php:414
+msgid "Notification mail to admin :"
+msgstr "E-mail de notification à l’administrateur :"
+
+#: core/forms/views/modal-editor.php:416
+msgid "Want to send a submission copy to admin by email? Active this one."
+msgstr "Vous souhaitez envoyer une copie de l’envoi à l’administrateur par e-mail ? Activez celui-ci."
+
+#: core/forms/views/modal-editor.php:428
+msgid "Enter admin email where you want to send mail."
+msgstr "Saisir l’e-mail d’administration où vous souhaitez envoyer les e-mails."
+
+#: core/forms/views/modal-editor.php:440
+msgid "Enter email where admin can reply/ you want to get reply."
+msgstr "Saisir l’email où vous voulez obtenir la réponse de l’administrateur."
+
+#: core/forms/views/modal-editor.php:444
+msgid "Admin Note : "
+msgstr "Note d’administrateur : "
+
+#: core/forms/views/modal-editor.php:445
+msgid "Admin note!"
+msgstr "Note d’administration !"
+
+#: core/forms/views/modal-editor.php:446
+msgid "Enter here your email body. Which will be send to admin."
+msgstr "Saisir ici le corps de l’e-mail, qui sera envoyé à l’administrateur."
+
+#: core/forms/views/modal-editor.php:544
+msgid "MailChimp List ID:"
+msgstr "ID de liste MailChimp :"
+
+#: core/forms/views/modal-editor.php:555
+msgid "Mailchimp contact list id"
+msgstr "ID de la liste de contacts Mailchimp"
+
+#: core/forms/views/modal-editor.php:579
+msgid "create from here"
+msgstr "créer à partir d’ici"
+
+#: core/integrations/google-recaptcha.php:38
+#: core/integrations/google-recaptcha.php:71
+msgid "Captcha is not verified."
+msgstr "Captcha n’est pas vérifié."
+
+#: traits/button-controls.php:119
+msgid "Input Name : "
+msgstr "Nom de l’entrée : "
+
+#: traits/button-controls.php:127 traits/quiz-control.php:366
+#: widgets/multi-select/multi-select.php:83 widgets/select/select.php:84
+msgid "Input Value"
+msgstr "Valeur de l’entrée"
+
+#: traits/button-controls.php:137
+msgid "Input Class"
+msgstr "Classe de l’entrée"
+
+#: traits/button-controls.php:146
+msgid "Input List"
+msgstr "Liste des entrées"
+
+#: traits/common-controls.php:30 widgets/simple-captcha/simple-captcha.php:67
+msgid "for adding label on input turn it on. Don't want to use label? turn it off."
+msgstr "pour ajouter un libellé à l’entrée, activez-le. Si vous ne voulez plus utiliser de libellé, déactivez-le."
+
+#: traits/common-controls.php:50 widgets/simple-captcha/simple-captcha.php:87
+msgid "Select label position. where you want to see it. top of the input or left of the input."
+msgstr "Sélectionner la position du libellé où vous voulez le voir. En haut de l’entrée ou à gauche de l’entrée."
+
+#: traits/common-controls.php:58 widgets/simple-captcha/simple-captcha.php:110
+msgid "Label : "
+msgstr "Libellé : "
+
+#: widgets/checkbox/checkbox.php:89 widgets/gdpr-consent/gdpr-consent.php:69
+msgid "Checkbox option display style. "
+msgstr "Option d’affichage des cases à cocher."
+
+#: traits/quiz-control.php:233 widgets/checkbox/checkbox.php:96
+#: widgets/gdpr-consent/gdpr-consent.php:76
+#: widgets/listing-optin/listing-optin.php:59 widgets/radio/radio.php:101
+msgid "Option Text Position : "
+msgstr "Position du texte de l’option : "
+
+#: widgets/checkbox/checkbox.php:111 widgets/gdpr-consent/gdpr-consent.php:89
+#: widgets/listing-optin/listing-optin.php:72
+msgid "Checkbox Option Text"
+msgstr "Texte de l’option de case à cocher"
+
+#: widgets/checkbox/checkbox.php:125 widgets/radio/radio.php:130
+msgid "Select option value that will be store/mail to desired person."
+msgstr "Sélectionnez la valeur de l’option qui sera enregistrée/envoyée à la personne souhaitée."
+
+#: traits/quiz-control.php:284 traits/quiz-control.php:456
+#: traits/quiz-control.php:600 widgets/checkbox/checkbox.php:131
+#: widgets/radio/radio.php:136
+msgid "Option Status"
+msgstr "État de l’option"
+
+#: widgets/checkbox/checkbox.php:139 widgets/multi-select/multi-select.php:98
+#: widgets/radio/radio.php:144 widgets/select/select.php:99
+msgid "Want to make a option? which user can see the option but can't select it. make it disable."
+msgstr "Vous voulez faire une option ? Quel utilisateur peut voir l’option mais ne peut pas la sélectionner, la désactiver."
+
+#: traits/quiz-control.php:334 traits/quiz-control.php:424
+#: traits/quiz-control.php:552 traits/quiz-control.php:647
+#: widgets/checkbox/checkbox.php:180 widgets/multi-select/multi-select.php:139
+#: widgets/radio/radio.php:185 widgets/select/select.php:153
+msgid "You can add/edit here your selector options."
+msgstr "Vous pouvez ajouter/modifier ici vos options de sélection."
+
+#: widgets/gdpr-consent/gdpr-consent.php:134
+#: widgets/listing-optin/listing-optin.php:115
+msgid "Input Label"
+msgstr "Libellé de l’entrée"
+
+#: widgets/checkbox/checkbox.php:381 widgets/gdpr-consent/gdpr-consent.php:426
+#: widgets/listing-optin/listing-optin.php:266
+msgid "Add space after checkbox"
+msgstr "Ajouter un espace après la case à cocher"
+
+#: widgets/file-upload/file-upload.php:149
+msgid "Maximum File Size (KB) : "
+msgstr "Taille de fichier maximale (Ko) : "
+
+#: widgets/listing-lname/listing-lname.php:20
+msgid "Last Name (Listing)"
+msgstr "Nom (Liste)"
+
+#: widgets/listing-optin/listing-optin.php:74
+msgid "Subscribe to ours newsletter."
+msgstr "Abonnez-vous à notre newsletter."
+
+#: traits/quiz-control.php:357 widgets/multi-select/multi-select.php:74
+#: widgets/select/select.php:74
+msgid "Input Text"
+msgstr "Texte de l’entrée"
+
+#: widgets/multi-select/multi-select.php:76 widgets/select/select.php:76
+msgid "Select list text that will be show to user."
+msgstr "Sélectionnez le texte de la liste qui sera montré à l’utilisateur."
+
+#: traits/quiz-control.php:374 widgets/multi-select/multi-select.php:91
+#: widgets/select/select.php:92 build/admin/form-analytics/index.js:1
+msgid "Status"
+msgstr "État"
+
+#: widgets/radio/radio.php:116
+msgid "Radio Option Text"
+msgstr "Texte des options de boutons radio"
+
+#: widgets/radio/radio.php:407
+msgid "Add space after radio"
+msgstr "Ajouter un espace après le bouton radio"
+
+#: widgets/recaptcha/recaptcha.php:66
+msgid "Add Extra Class Name : "
+msgstr "Nom de classe CSS : "
+
+#. Description of the plugin
+#: metform.php
+msgid "Most flexible and design friendly form builder for Elementor"
+msgstr "Constructeur de formulaires le plus flexible et le plus convivial pour Elementor"
+
+#: core/entries/action.php:200 core/entries/action.php:233
+msgid "Please solve the recaptcha."
+msgstr "Veuillez résoudre le reCaptcha."
+
+#: core/entries/cpt.php:18
+msgid "Entry Archives"
+msgstr "Archives des soumissions"
+
+#: core/entries/cpt.php:19
+msgid "Entry Attributes"
+msgstr "Attributs d’entrée"
+
+#: core/entries/cpt.php:38
+msgid "Form entries list"
+msgstr "Liste des entrées de formulaire"
+
+#: core/entries/cpt.php:39
+msgid "Form entries list navigation"
+msgstr "Navigation dans la liste des entrées de formulaires"
+
+#: core/entries/cpt.php:45
+msgid "metform-entry"
+msgstr "metform-entry"
+
+#: core/forms/views/modal-editor.php:173
+msgid "Store Entries:"
+msgstr "Enregistrer les entrées :"
+
+#: core/forms/views/modal-editor.php:190
+msgid "Limit Total Entries:"
+msgstr "Limiter le nombre total d’envois :"
+
+#: core/forms/views/modal-editor.php:1041
+msgid "Enter here zapier web hook."
+msgstr "Saisir ici crochet web Zapier."
+
+#: core/forms/views/modal-editor.php:577
+msgid "Slack webhook:"
+msgstr "Crochet Web Slack :"
+
+#: core/forms/views/modal-editor.php:578
+msgid "Slack webhook"
+msgstr "Crochet Web Slack"
+
+#. translators: MetForm plugin version requirement. %s is the required
+#. Elementor version.
+#: plugin.php:690 plugin.php:707
+msgid "MetForm requires Elementor version %1$s+, which is currently NOT RUNNING."
+msgstr "MetForm nécessite la version Elementor %1$s, qui n’est actuellement PAS ACTIVÉE."
+
+#: traits/common-controls.php:61 widgets/simple-captcha/simple-captcha.php:113
+msgid "Enter here label of input"
+msgstr "Saisir ici le libellé de l’entrée"
+
+#: traits/common-controls.php:87
+msgid "Enter here name of the input"
+msgstr "Saisir ici le nom de l’entrée"
+
+#: traits/common-controls.php:109
+msgid "Place holder"
+msgstr "Libellé"
+
+#: traits/common-controls.php:112 traits/quiz-control.php:347
+msgid "Enter here place holder"
+msgstr "Saisir ici le texte factice"
+
+#: traits/quiz-control.php:172 traits/quiz-control.php:193
+#: widgets/checkbox/checkbox.php:78 widgets/gdpr-consent/gdpr-consent.php:58
+#: widgets/radio/radio.php:83
+msgid "Option Display : "
+msgstr "Affichage de l’option : "
+
+#: traits/quiz-control.php:269 traits/quiz-control.php:359
+#: widgets/checkbox/checkbox.php:115 widgets/radio/radio.php:120
+msgid "Select option text that will be show to user."
+msgstr "Sélectionner le texte d’option qui sera affiché à l’utilisateur."
+
+#: widgets/date/date.php:646 widgets/email/email.php:159
+#: widgets/listing-fname/listing-fname.php:119
+#: widgets/listing-lname/listing-lname.php:119
+#: widgets/multi-select/multi-select.php:226 widgets/number/number.php:145
+#: widgets/password/password.php:117 widgets/select/select.php:521
+#: widgets/simple-captcha/simple-captcha.php:373
+#: widgets/telephone/telephone.php:118 widgets/text/text.php:136
+#: widgets/textarea/textarea.php:141 widgets/time/time.php:141
+#: widgets/url/url.php:127
+msgid "Place Holder"
+msgstr "Signet"
+
+#: widgets/gdpr-consent/gdpr-consent.php:94
+#: widgets/listing-optin/listing-optin.php:76
+msgid "Select option name that will be show to user."
+msgstr "Sélectionner le nom de l’option qui sera affiché à l’utilisateur."
+
+#: traits/quiz-control.php:368 widgets/multi-select/multi-select.php:85
+#: widgets/select/select.php:86
+msgid "Select list value that will be store/mail to desired person."
+msgstr "Sélectionner la valeur de liste qui sera en boutique/e-mail à la personne désirée."
+
+#: core/forms/views/modal-editor.php:573
+msgid "slack info."
+msgstr "Infos Slack."
+
+#: core/forms/cpt.php:573
+msgid "Filter froms list"
+msgstr "Filtrer depuis la liste"
+
+#: core/entries/cpt.php:40
+msgid "Filter from entry list"
+msgstr "Filtrer depuis la liste des entrées"
+
+#: widgets/rating/rating.php:79
+msgid "Number of rating star : "
+msgstr "Nombre d’étoiles d’évaluation : "
+
+#: traits/common-controls.php:134
+msgid "Required ?"
+msgstr "Nécessaire ?"
+
+#: widgets/date/date.php:261 widgets/date/date.php:308
+#: widgets/date/date.php:342 widgets/date/date.php:376
+msgid "Date format : "
+msgstr "Format de date : "
+
+#: core/admin/views/settings.php:527 core/admin/views/settings.php:552
+msgid "Secret key:"
+msgstr "Clé secrète :"
+
+#: core/forms/views/modal-editor.php:762
+msgid "Enter here MailPoet list id. "
+msgstr "Saisissez ici l’ID de la liste de contacts MailPoet. "
+
+#: traits/common-controls.php:140
+msgid "Is this field is required for submit the form?. Make it \"Yes\"."
+msgstr "Ce champ est-il nécessaire pour envoyer le formulaire ?. Mettre sur « Oui »."
+
+#: widgets/date/date.php:213
+msgid "Range date input ?"
+msgstr "Entrée de plage de dates  ?"
+
+#: widgets/listing-optin/listing-optin.php:20
+msgid "Opt in ( Listing )"
+msgstr "Opt in (liste )"
+
+#: widgets/multi-select/multi-select.php:81 widgets/select/select.php:82
+msgid "Input Field Value"
+msgstr "Valeur du champ de saisie"
+
+#: widgets/recaptcha/recaptcha.php:17
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: core/entries/cpt.php:32 core/forms/cpt.php:565
+msgid "Featured Image"
+msgstr "Image mise en avant"
+
+#: traits/common-controls.php:400 traits/common-controls.php:592
+#: traits/common-controls.php:625 widgets/checkbox/checkbox.php:278
+#: widgets/email/email.php:215 widgets/file-upload/file-upload.php:423
+#: widgets/gdpr-consent/gdpr-consent.php:234
+#: widgets/gdpr-consent/gdpr-consent.php:323
+#: widgets/listing-optin/listing-optin.php:163 widgets/radio/radio.php:304
+#: widgets/rating/rating.php:147 widgets/select/select.php:365
+#: widgets/simple-captcha/simple-captcha.php:216
+#: widgets/simple-captcha/simple-captcha.php:296
+#: widgets/simple-captcha/simple-captcha.php:345
+#: widgets/simple-message/simple-message.php:137
+msgid "Margin"
+msgstr "Marge externe"
+
+#: traits/common-controls.php:26 traits/quiz-control.php:488
+#: widgets/simple-captcha/simple-captcha.php:63
+msgid "Show"
+msgstr "Afficher"
+
+#: traits/button-controls.php:412 traits/button-controls.php:437
+msgid "Icon Color"
+msgstr "Couleur de l’iicône"
+
+#: traits/button-controls.php:295 widgets/switch/switch.php:248
+#: widgets/switch/switch.php:332 widgets/switch/switch.php:429
+#: widgets/switch/switch.php:513
+msgctxt "Border Control"
+msgid "Dashed"
+msgstr "En pointillés"
+
+#: traits/button-controls.php:81 traits/quiz-control.php:515
+msgid "Icon Position"
+msgstr "Position de l’icone"
+
+#: traits/button-controls.php:225 traits/button-controls.php:348
+#: traits/button-controls.php:430 traits/common-controls.php:706
+#: widgets/file-upload/file-upload.php:368 widgets/select/select.php:449
+msgid "Hover"
+msgstr "Survol"
+
+#: traits/button-controls.php:158 traits/button-controls.php:481
+#: traits/common-controls.php:386 traits/common-controls.php:578
+#: traits/common-controls.php:609 traits/common-controls.php:959
+#: widgets/checkbox/checkbox.php:267 widgets/email/email.php:204
+#: widgets/file-upload/file-upload.php:411
+#: widgets/gdpr-consent/gdpr-consent.php:220
+#: widgets/gdpr-consent/gdpr-consent.php:312
+#: widgets/listing-optin/listing-optin.php:152 widgets/radio/radio.php:293
+#: widgets/rating/rating.php:135 widgets/select/select.php:353
+#: widgets/simple-captcha/simple-captcha.php:202
+#: widgets/simple-captcha/simple-captcha.php:284
+#: widgets/simple-captcha/simple-captcha.php:333
+#: widgets/simple-message/simple-message.php:126 widgets/switch/switch.php:290
+#: widgets/switch/switch.php:471
+msgid "Padding"
+msgstr "Marges internes"
+
+#: widgets/checkbox/checkbox.php:134 widgets/radio/radio.php:139
+#: widgets/rating/rating.php:201 widgets/switch/switch.php:380
+msgid "Active"
+msgstr "Activer"
+
+#: traits/button-controls.php:45 traits/common-controls.php:42
+#: widgets/simple-captcha/simple-captcha.php:79
+#: widgets/simple-message/simple-message.php:82
+msgid "Left"
+msgstr "À gauche"
+
+#: widgets/recaptcha/recaptcha.php:158 widgets/recaptcha/recaptcha.php:193
+msgid "reCAPTCHA will be shown on preview."
+msgstr "reCAPTCHA sera affiché sur l’aperçu."
+
+#: widgets/multi-select/multi-select.php:72 widgets/select/select.php:72
+msgid "Input Field Text"
+msgstr "Texte du champ de saisie"
+
+#: core/forms/views/modal-editor.php:434
+msgid "Enter the email by which you want to send email to admin."
+msgstr "Saisissez l’adresse e-mail par laquelle vous souhaitez envoyer l’e-mail à l’admin."
+
+#: core/forms/views/modal-editor.php:428
+msgid " for multiple email addresses please use \",\" separator."
+msgstr " pour plusieurs adresses e-mail veuillez utiliser une « , » comme séparateur."
+
+#: core/forms/views/modal-editor.php:426
+msgid "Email To:"
+msgstr "Destinataire :"
+
+#: core/forms/views/modal-editor.php:369
+msgid "Enter the email by which you want to send email to user."
+msgstr "Saisissez l’adresse e-mail par laquelle vous souhaitez envoyer l’e-mail à l’utilisateur/utilisatrice."
+
+#: core/forms/views/modal-editor.php:133
+msgid "Required Login:"
+msgstr "Connexion nécessaire :"
+
+#: core/integrations/slack.php:46
+msgid "Your data inserted on slack."
+msgstr "Vos données insérées sur Slack."
+
+#: core/entries/cpt.php:23 core/forms/cpt.php:556
+msgid "Add New"
+msgstr "Ajouter"
+
+#: traits/button-controls.php:373 traits/common-controls.php:291
+#: traits/common-controls.php:847 widgets/file-upload/file-upload.php:444
+#: widgets/range/range.php:372 widgets/range/range.php:458
+#: widgets/rating/rating.php:237 widgets/select/select.php:298
+#: widgets/select/select.php:377
+msgid "Border Radius"
+msgstr "Rayon de la bordure"
+
+#: widgets/rating/rating.php:20
+msgid "Rating"
+msgstr "Évaluation"
+
+#: widgets/checkbox/checkbox.php:33 widgets/checkbox/checkbox.php:259
+#: widgets/gdpr-consent/gdpr-consent.php:304
+#: widgets/listing-optin/listing-optin.php:144
+msgid "Checkbox"
+msgstr "Case à cocher"

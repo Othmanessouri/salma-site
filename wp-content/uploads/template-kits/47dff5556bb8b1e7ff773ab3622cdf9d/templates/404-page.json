@@ -1,0 +1,16 @@
+{
+    "version": "0.4",
+    "title": "404 Page",
+    "type": "section",
+    "metadata": {
+        "template_type": "single-404",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [],
+    "page_settings": {
+        "hide_title": "yes",
+        "template": "elementor_header_footer"
+    }
+}

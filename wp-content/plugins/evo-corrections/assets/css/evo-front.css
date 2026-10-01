@@ -1,0 +1,682 @@
+/* EVO Corrections — styles ajoutés au design existant (couleurs et polices du site). */
+
+:root {
+	--evo-forest: #1B4332;
+	--evo-green: #40916C;
+	--evo-light: #52B788;
+	--evo-mint: #95D5B2;
+	--evo-text: #5B6660;
+	--evo-bg: #F8FFFB;
+	--evo-ink: #0D1B12;
+	--evo-radius: 20px;
+	--evo-header-h: 88px;
+}
+
+/* G17 : aucune barre de défilement horizontale (clip ne casse pas le header collant). */
+html,
+body {
+	overflow-x: clip;
+}
+
+/* G19 : défilement doux vers les ancres, décalé de la hauteur du header collant. */
+html {
+	scroll-padding-top: calc(var(--evo-header-h) + 12px);
+}
+@media (prefers-reduced-motion: no-preference) {
+	html {
+		scroll-behavior: smooth;
+	}
+}
+
+/* ========== Bandeau du haut ========== */
+.evo-topbar {
+	background: var(--evo-forest);
+	color: rgba(255, 255, 255, 0.82);
+	font-family: "DM Sans", sans-serif;
+	font-size: 12.5px;
+	line-height: 1.3;
+	position: relative;
+	z-index: 1000;
+}
+.evo-topbar__inner {
+	max-width: 1300px;
+	margin: 0 auto;
+	padding: 7px 24px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 16px;
+}
+.evo-topbar__left {
+	margin: 0;
+	display: flex;
+	align-items: center;
+	gap: 8px;
+}
+.evo-topbar .evo-ico {
+	width: 13px;
+	height: 13px;
+	flex: none;
+}
+.evo-topbar .evo-ico--leaf {
+	color: var(--evo-mint);
+}
+.evo-topbar__right {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	align-items: center;
+	gap: 22px;
+}
+.evo-topbar__right li {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	margin: 0;
+}
+.evo-topbar a {
+	color: #fff;
+	text-decoration: none;
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+}
+.evo-topbar a:hover,
+.evo-topbar a:focus-visible {
+	color: var(--evo-mint);
+}
+.evo-topbar strong {
+	font-weight: 700;
+}
+@media (max-width: 767px) {
+	.evo-topbar .evo-topbar__left,
+	.evo-topbar .evo-topbar__right .evo-topbar__delay {
+		display: none;
+	}
+	.evo-topbar__inner {
+		justify-content: center;
+		padding: 4px 16px;
+	}
+	.evo-topbar a {
+		min-height: 32px;
+	}
+}
+
+/* ========== G4 : header collant qui se réduit au défilement ========== */
+.ekit-template-content-header {
+	position: sticky;
+	top: 0;
+	z-index: 999;
+	background: #fff;
+	transition: box-shadow 0.25s ease;
+}
+.admin-bar .ekit-template-content-header {
+	top: 32px;
+}
+@media (max-width: 782px) {
+	.admin-bar .ekit-template-content-header {
+		top: 46px;
+	}
+}
+@media (max-width: 600px) {
+	.admin-bar .ekit-template-content-header {
+		top: 0;
+	}
+}
+body.evo-scrolled .ekit-template-content-header {
+	box-shadow: 0 4px 18px rgba(13, 27, 18, 0.08);
+}
+.elementor-310 .elementor-element-0729c63 img {
+	transition: max-width 0.25s ease;
+}
+body.evo-scrolled .elementor-310 .elementor-element.elementor-element-4bc1333 {
+	--padding-top: 4px;
+	--padding-bottom: 4px;
+	min-height: 64px;
+}
+body.evo-scrolled .elementor-310 .elementor-element-0729c63 img {
+	max-width: 160px !important;
+}
+
+/* ========== G18 : header mobile ========== */
+.evo-mobile-header {
+	flex-wrap: nowrap !important;
+	align-items: center !important;
+	gap: 8px;
+}
+.evo-mobile-devis {
+	margin-left: auto !important;
+}
+.evo-mobile-devis .elementor-button {
+	padding: 9px 16px !important;
+	font-size: 13px !important;
+	min-height: 40px;
+	white-space: nowrap;
+}
+.elementskit-menu-hamburger {
+	min-width: 44px;
+	min-height: 44px;
+}
+@media (max-width: 1024px) {
+	.elementskit-navbar-nav > li > a,
+	.elementskit-navbar-nav .elementskit-submenu-panel > li > a {
+		min-height: 44px;
+		display: flex !important;
+		align-items: center;
+	}
+	.elementskit-menu-close {
+		min-width: 44px;
+		min-height: 44px;
+	}
+}
+
+/* ========== G13 : couleur fixe par produit ========== */
+.evo-product--enzy-floor,
+.evo-pill--enzy-floor { --evo-product: var(--evo-enzy-floor, #1A7A6E); }
+.evo-product--enzy-carpet,
+.evo-pill--enzy-carpet { --evo-product: var(--evo-enzy-carpet, #E8841A); }
+.evo-product--enzy-degrese,
+.evo-pill--enzy-degrese { --evo-product: var(--evo-enzy-degrese, #2563A8); }
+.evo-product--enzy-power,
+.evo-pill--enzy-power { --evo-product: var(--evo-enzy-power, #7B2FBE); }
+.evo-product--enzy-glass,
+.evo-pill--enzy-glass { --evo-product: var(--evo-enzy-glass, #F5C518); --evo-product-ink: #1F1A00; --evo-product-text: #8A6D00; }
+
+.evo-product {
+	border-top: 4px solid var(--evo-product) !important;
+}
+.evo-product .elementor-heading-title {
+	color: var(--evo-product-text, var(--evo-product)) !important;
+}
+
+.evo-pills {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 6px;
+	margin: 0;
+}
+.evo-pill {
+	display: inline-flex;
+	align-items: center;
+	padding: 3px 10px;
+	border-radius: 999px;
+	font: 600 11.5px/1.5 "DM Sans", sans-serif;
+	letter-spacing: 0.02em;
+	background: var(--evo-product, var(--evo-forest));
+	color: var(--evo-product-ink, #fff);
+	white-space: nowrap;
+}
+/* APR1 : pastilles neutres (couleur du texte environnant). */
+.evo-pills--light {
+	justify-content: inherit;
+}
+.evo-pills--light .evo-pill {
+	background: color-mix(in srgb, currentColor 10%, transparent);
+	color: inherit;
+	border: 1px solid color-mix(in srgb, currentColor 35%, transparent);
+	font-size: 13px;
+	padding: 5px 14px;
+}
+.elementor-widget-text-editor .evo-pills--light {
+	justify-content: center;
+}
+
+/* ========== ACC5 : cartes secteurs cliquables ========== */
+a.evo-sector-card {
+	color: inherit;
+	text-decoration: none;
+	cursor: pointer;
+	transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+a.evo-sector-card:hover,
+a.evo-sector-card:focus-visible {
+	transform: translateY(-3px);
+	box-shadow: 0 10px 28px rgba(13, 27, 18, 0.12);
+}
+a.evo-sector-card:focus-visible {
+	outline: 3px solid var(--evo-light);
+	outline-offset: 2px;
+}
+.evo-sector-card .evo-card-pills {
+	margin-top: auto;
+}
+.evo-card-pills p,
+.evo-card-more p {
+	margin: 0;
+}
+.evo-card-more {
+	font: 600 14px/1.4 "Poppins", sans-serif;
+	color: var(--evo-forest);
+}
+a.evo-sector-card:hover .evo-card-more {
+	color: var(--evo-green);
+}
+.evo-global-secteurs > .elementor-widget-shortcode,
+.evo-global-secteurs .elementor-shortcode {
+	width: 100%;
+}
+
+/* ========== G14 : boutons ========== */
+.evo-btn .elementor-button {
+	border-radius: var(--evo-radius) !important;
+	min-height: 44px;
+	display: inline-flex !important;
+	align-items: center;
+	justify-content: center;
+	transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+.evo-btn--primary .elementor-button {
+	background-color: var(--evo-forest) !important;
+	border: 2px solid var(--evo-forest) !important;
+	color: #fff !important;
+}
+.evo-btn--primary .elementor-button:hover,
+.evo-btn--primary .elementor-button:focus-visible {
+	background-color: var(--evo-green) !important;
+	border-color: var(--evo-green) !important;
+	color: #fff !important;
+}
+.evo-btn--primary .elementor-button svg {
+	fill: currentColor !important;
+}
+.evo-btn--secondary .elementor-button {
+	background-color: transparent !important;
+	border: 2px solid var(--evo-forest) !important;
+	color: var(--evo-forest) !important;
+}
+.evo-btn--secondary .elementor-button:hover,
+.evo-btn--secondary .elementor-button:focus-visible {
+	background-color: var(--evo-forest) !important;
+	color: #fff !important;
+}
+.evo-btn--secondary .elementor-button svg {
+	fill: currentColor !important;
+}
+.evo-on-dark .evo-btn--primary .elementor-button {
+	background-color: var(--evo-light) !important;
+	border-color: var(--evo-light) !important;
+	color: var(--evo-ink) !important;
+}
+.evo-on-dark .evo-btn--primary .elementor-button:hover {
+	background-color: #fff !important;
+	border-color: #fff !important;
+	color: var(--evo-forest) !important;
+}
+.evo-on-dark .evo-btn--secondary .elementor-button {
+	color: #fff !important;
+	border-color: rgba(255, 255, 255, 0.85) !important;
+}
+.evo-on-dark .evo-btn--secondary .elementor-button:hover {
+	background-color: #fff !important;
+	color: var(--evo-forest) !important;
+}
+
+/* ========== G15 : sur-titres ========== */
+.evo-surtitre,
+.evo-surtitre p,
+.evo-surtitre .elementor-heading-title {
+	font-family: "DM Sans", sans-serif !important;
+	font-size: 13px !important;
+	font-weight: 700 !important;
+	letter-spacing: 0.12em !important;
+	line-height: 1.5 !important;
+	text-transform: uppercase !important;
+	color: var(--evo-green) !important;
+}
+.evo-surtitre p {
+	margin: 0;
+}
+.evo-surtitre.elementor-widget {
+	margin-bottom: 6px !important;
+}
+.evo-on-dark .evo-surtitre,
+.evo-on-dark .evo-surtitre p,
+.evo-on-dark .evo-surtitre .elementor-heading-title {
+	color: var(--evo-mint) !important;
+}
+
+/* ========== G16 : pas d'effet « page vide » ========== */
+.elementor-invisible {
+	visibility: visible !important;
+}
+
+/* ========== Accueil ========== */
+.evo-hero-surtitre .elementor-heading-title {
+	margin: 0;
+}
+.evo-hero-actions {
+	width: 100%;
+}
+.evo-home-hero .evo-hero-actions {
+	justify-content: center;
+}
+.evo-hero-wa p {
+	margin: 0;
+	text-align: center;
+}
+.evo-hero-wa a {
+	color: #fff;
+	font: 600 15px/1.4 "DM Sans", sans-serif;
+	text-decoration: underline;
+	text-underline-offset: 3px;
+}
+.evo-hero-wa a:hover {
+	color: var(--evo-mint);
+}
+
+/* ACC3 : badges centrés sous la carte correspondante. */
+.evo-badges-split > .e-con,
+.evo-badges-split > .e-con-inner > .e-con {
+	flex: 1 1 50%;
+	justify-content: center;
+}
+.evo-badges-split .elementor-icon-list-items {
+	justify-content: center !important;
+}
+
+/* ACC4 : zones cliquables de l'image « 4 secteurs ». */
+.evo-map-wrap {
+	position: relative;
+	display: inline-block;
+	max-width: 100%;
+	line-height: 0;
+}
+.evo-map-wrap > img {
+	display: block;
+}
+.evo-hotspots {
+	position: absolute;
+	inset: 0;
+}
+.evo-hotspot {
+	position: absolute;
+	display: block;
+	border-radius: 6px;
+	transition: box-shadow 0.2s ease, background-color 0.2s ease;
+}
+.evo-hotspot span {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	overflow: hidden;
+	clip: rect(0 0 0 0);
+	white-space: nowrap;
+}
+.evo-hotspot:hover,
+.evo-hotspot:focus-visible {
+	background-color: rgba(255, 255, 255, 0.08);
+	box-shadow: inset 0 0 0 3px var(--evo-light);
+	outline: none;
+}
+
+/* ACC7 : section devis plus compacte (formulaire à droite sur ordinateur). */
+@media (min-width: 1025px) {
+	.evo-home-devis .elementor-element-a584dbf:not(:has(> .e-con-inner)),
+	.evo-home-devis .elementor-element-a584dbf > .e-con-inner {
+		display: grid !important;
+		grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+		column-gap: 56px;
+		row-gap: 12px;
+		align-items: start;
+		align-content: start;
+	}
+	.evo-home-devis .elementor-element-a584dbf > *,
+	.evo-home-devis .elementor-element-a584dbf > .e-con-inner > * {
+		grid-column: 1;
+		width: auto !important;
+		max-width: none !important;
+	}
+	.evo-home-devis .evo-quick-form,
+	.evo-home-devis .elementor-element-a584dbf .elementor-widget-shortcode,
+	.evo-home-devis .elementor-element-a584dbf .elementor-widget-metform {
+		grid-column: 2;
+		grid-row: 1 / span 6;
+	}
+	.evo-home-devis .elementor-element-38bdf10 {
+		--flex-wrap: wrap;
+		flex-wrap: wrap !important;
+		margin-top: 18px !important;
+	}
+	.evo-home-devis .elementor-element-38bdf10 > .e-con {
+		flex: 1 1 calc(50% - 20px) !important;
+		max-width: calc(50% - 10px);
+	}
+}
+
+/* ACC9 : marques en carrousel horizontal sur mobile. */
+@media (max-width: 767px) {
+	.evo-brands-main.evo-carousel {
+		flex-wrap: nowrap !important;
+		overflow-x: auto;
+		scroll-snap-type: x mandatory;
+		-webkit-overflow-scrolling: touch;
+		gap: 14px !important;
+		padding-bottom: 10px !important;
+		scrollbar-width: thin;
+	}
+	.evo-brands-main.evo-carousel > .e-con {
+		flex: 0 0 78% !important;
+		max-width: 78% !important;
+		scroll-snap-align: start;
+	}
+	.evo-brands-extra.evo-emptied {
+		display: none !important;
+	}
+}
+
+/* ACC10 : bandeau avant le footer (repris de À propos). */
+.evo-prefooter-cta {
+	scroll-margin-top: var(--evo-header-h);
+}
+
+/* ========== Visuel sous les boutons des héros centrés (ENZY1, BEA2) ========== */
+.evo-hero-with-visual .evo-hero-actions {
+	justify-content: center;
+}
+.elementor-element.evo-hero-with-visual {
+	--padding-top: 56px !important;
+}
+@media (max-width: 767px) {
+	.elementor-element.evo-hero-with-visual {
+		--padding-top: 32px !important;
+	}
+}
+.evo-hero-with-visual .evo-hero-visual {
+	width: 100% !important;
+	max-width: 100% !important;
+	margin-top: 28px !important;
+	margin-bottom: 28px !important;
+}
+.evo-hero-visual img {
+	display: block;
+	width: 100%;
+	height: auto;
+	max-width: 760px;
+	margin: 0 auto;
+}
+.evo-beaute-hero .evo-hero-visual img {
+	max-width: 640px;
+	border-radius: 16px;
+}
+@media (max-width: 767px) {
+	.evo-hero-with-visual .evo-hero-visual {
+		margin-top: 18px !important;
+		margin-bottom: 18px !important;
+	}
+}
+
+/* ENZY2 : icônes du hero en grille 2 × 2 sur mobile (plus de débordement). */
+@media (max-width: 767px) {
+	.evo-icons-2x2 .elementor-icon-list-items {
+		display: grid !important;
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+		gap: 10px 12px;
+		margin: 0 !important;
+	}
+	.evo-icons-2x2 .elementor-icon-list-item {
+		margin: 0 !important;
+		padding: 0 !important;
+		min-width: 0;
+	}
+	.evo-icons-2x2 .elementor-icon-list-item::after {
+		display: none !important;
+	}
+	.evo-icons-2x2 .elementor-icon-list-text {
+		white-space: normal;
+	}
+}
+
+/* ENZY6 : boutons Certification dans la ligne des boutons. */
+.evo-cert-btn {
+	width: auto !important;
+}
+
+/* ENZY10 : valeurs en 3 × 2 sur ordinateur, 1 colonne sur mobile. */
+@media (max-width: 767px) {
+	.evo-values-grid .elementor-element-3cab723,
+	.evo-values-grid .elementor-element-98c1772,
+	.evo-values-grid .elementor-element-3cab723 > .e-con-inner,
+	.evo-values-grid .elementor-element-98c1772 > .e-con-inner {
+		flex-direction: column !important;
+	}
+	.evo-values-grid .elementor-element-3cab723 > .e-con,
+	.evo-values-grid .elementor-element-98c1772 > .e-con {
+		width: 100% !important;
+	}
+}
+
+/* ========== Beauté ========== */
+.evo-brand-card {
+	scroll-margin-top: calc(var(--evo-header-h) + 12px);
+}
+@media (min-width: 768px) {
+	/* BEA4 : dernière carte (Néolia) centrée pour une grille cohérente. */
+	.evo-brands-grid .elementor-element-c05b4b3,
+	.evo-brands-grid .elementor-element-c05b4b3 > .e-con-inner {
+		justify-content: center !important;
+	}
+}
+
+/* ========== À propos ========== */
+.evo-stat-number .elementor-heading-title {
+	margin: 0;
+}
+
+/* ========== Contact ========== */
+.evo-contact-band {
+	min-height: 200px !important;
+	--min-height: 200px !important;
+	--padding-top: 36px !important;
+	--padding-bottom: 36px !important;
+}
+@media (min-width: 1025px) {
+	.evo-contact-main,
+	.evo-contact-main > .e-con-inner {
+		align-items: flex-start !important;
+	}
+	.evo-contact-form {
+		position: sticky;
+		top: calc(var(--evo-header-h) + 16px);
+	}
+}
+
+/* ========== Formulaires ========== */
+.evo-hp {
+	position: absolute !important;
+	left: -10000px !important;
+	width: 1px !important;
+	height: 1px !important;
+	overflow: hidden !important;
+}
+.evo-consent {
+	width: 100% !important;
+	font-size: 13px;
+	line-height: 1.5;
+}
+.evo-consent a {
+	color: var(--evo-green);
+	text-decoration: underline;
+}
+.evo-devis-page {
+	padding-top: 24px;
+}
+
+/* ========== Pages légales et 404 ========== */
+.evo-legal .elementor-widget-text-editor h2 {
+	font: 600 20px/1.35 "Poppins", sans-serif;
+	color: var(--evo-forest);
+	margin: 28px 0 8px;
+}
+.evo-legal .elementor-widget-text-editor p {
+	color: var(--evo-text);
+	line-height: 1.7;
+}
+.evo-404 {
+	max-width: 760px;
+	margin: 0 auto;
+	padding: 80px 20px 96px;
+	text-align: center;
+	font-family: "DM Sans", sans-serif;
+	color: var(--evo-text);
+}
+.evo-404 .evo-404__code {
+	font: 700 14px/1 "DM Sans", sans-serif;
+	letter-spacing: 0.14em;
+	color: var(--evo-green);
+	text-transform: uppercase;
+	margin: 0 0 12px;
+}
+.evo-404 h1 {
+	font: 600 clamp(28px, 4vw, 40px)/1.2 "Poppins", sans-serif;
+	color: var(--evo-forest);
+	margin: 0 0 12px;
+}
+.evo-404 form {
+	display: flex;
+	gap: 8px;
+	max-width: 460px;
+	margin: 28px auto;
+}
+.evo-404 input[type="search"] {
+	flex: 1;
+	min-height: 44px;
+	border: 1px solid #cfd8d3;
+	border-radius: 10px;
+	padding: 0 14px;
+	font: inherit;
+}
+.evo-404 button {
+	min-height: 44px;
+	border: 0;
+	border-radius: var(--evo-radius);
+	padding: 0 20px;
+	background: var(--evo-forest);
+	color: #fff;
+	font: 600 15px/1 "Poppins", sans-serif;
+	cursor: pointer;
+}
+.evo-404__links {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 10px;
+	list-style: none;
+	padding: 0;
+	margin: 8px 0 0;
+}
+.evo-404__links a {
+	display: inline-flex;
+	align-items: center;
+	min-height: 44px;
+	padding: 0 18px;
+	border: 2px solid var(--evo-forest);
+	border-radius: var(--evo-radius);
+	color: var(--evo-forest);
+	font: 600 14px/1 "Poppins", sans-serif;
+	text-decoration: none;
+}
+.evo-404__links a:hover {
+	background: var(--evo-forest);
+	color: #fff;
+}

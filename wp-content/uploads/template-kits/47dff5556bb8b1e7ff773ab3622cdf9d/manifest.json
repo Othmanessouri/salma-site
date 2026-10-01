@@ -1,0 +1,1341 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Aurra - Perfume and Fragrance Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/askproject.net",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/askproject.net\/aurra\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Newsletter",
+            "screenshot": "screenshots\/form-newsletter.jpg",
+            "source": "templates\/form-newsletter.json",
+            "preview_url": "https:\/\/askproject.net\/aurra\/template-kit\/form-newsletter\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/askproject.net\/aurra\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/askproject.net\/aurra\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/askproject.net\/aurra\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Products",
+            "screenshot": "screenshots\/products.jpg",
+            "source": "templates\/products.json",
+            "preview_url": "https:\/\/askproject.net\/aurra\/template-kit\/products\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.jpg",
+            "source": "templates\/testimonial.json",
+            "preview_url": "https:\/\/askproject.net\/aurra\/template-kit\/testimonial\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/askproject.net\/aurra\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/askproject.net\/aurra\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/askproject.net\/aurra\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Contact",
+            "screenshot": "screenshots\/form-contact.jpg",
+            "source": "templates\/form-contact.json",
+            "preview_url": "https:\/\/askproject.net\/aurra\/template-kit\/form-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/askproject.net\/aurra\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/askproject.net\/aurra\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/askproject.net\/aurra\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/askproject.net\/aurra\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.3.2",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Gum Elementor Addon",
+            "version": "1.3.9",
+            "file": "gum-elementor-addon\/gum-elementor-addon.php",
+            "author": "TemeGUM"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.9.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.25.10",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo_Asset-1.png",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/logo_Asset-1-800x203.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 22081,
+            "dimensions": [
+                1501,
+                380
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo_Asset-2.png",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/logo_Asset-2-800x203.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 22270,
+            "dimensions": [
+                1501,
+                381
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "vertical-closeup-of-the-anthurium-beautiful-red-f-3DBB9VJ.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/vertical-closeup-of-the-anthurium-beautiful-red-f-3DBB9VJ-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 90784,
+            "dimensions": [
+                1200,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-3DBB9VJ"
+        },
+        {
+            "filename": "close-up-of-beautiful-girl-with-flower-petals-arou-PYZC3P7.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/close-up-of-beautiful-girl-with-flower-petals-arou-PYZC3P7-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 221367,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-PYZC3P7"
+        },
+        {
+            "filename": "laura-chouette-d1NjFkaGFac-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/laura-chouette-d1NjFkaGFac-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 114229,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/d1NjFkaGFac"
+        },
+        {
+            "filename": "serum-with-a-dropper-with-spring-flowers-BR53RRX.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/serum-with-a-dropper-with-spring-flowers-BR53RRX-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 90479,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-BR53RRX"
+        },
+        {
+            "filename": "a-bottle-of-perfume-in-the-rays-of-the-sun-CSJSGKR.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/a-bottle-of-perfume-in-the-rays-of-the-sun-CSJSGKR-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 112878,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-CSJSGKR"
+        },
+        {
+            "filename": "bgoverlay4.png",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/bgoverlay4-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 67126,
+            "dimensions": [
+                2250,
+                2250
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "pexels-mikhail-nilov-6707561.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/pexels-mikhail-nilov-6707561-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 91452,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-6707561"
+        },
+        {
+            "filename": "the-aromatherapist-girl-is-sitting-in-her-office-a-F3Y4TKM.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/the-aromatherapist-girl-is-sitting-in-her-office-a-F3Y4TKM-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 120803,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-F3Y4TKM"
+        },
+        {
+            "filename": "pretty-young-woman-with-red-lips-enjoying-tasty-ca-Y8PM5GV.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/pretty-young-woman-with-red-lips-enjoying-tasty-ca-Y8PM5GV-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 126727,
+            "dimensions": [
+                1200,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y8PM5GV"
+        },
+        {
+            "filename": "girl-in-a-white-dress-sits-and-holds-a-bottle-of-p-R43ZM9Y.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/girl-in-a-white-dress-sits-and-holds-a-bottle-of-p-R43ZM9Y-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 74883,
+            "dimensions": [
+                1200,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-R43ZM9Y"
+        },
+        {
+            "filename": "Glass-Parfume-Mockup10.png",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/Glass-Parfume-Mockup10.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 170739,
+            "dimensions": [
+                600,
+                750
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Glass-Parfume-Mockup3.png",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/Glass-Parfume-Mockup3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 175093,
+            "dimensions": [
+                600,
+                750
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Glass-Parfume-Mockup7.png",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/Glass-Parfume-Mockup7.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 171416,
+            "dimensions": [
+                600,
+                750
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon3-2.png",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/icon3-2-800x799.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 10249,
+            "dimensions": [
+                1001,
+                1000
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon2-2.png",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/icon2-2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 20896,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon1-2.png",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/icon1-2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 15925,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon4-2.png",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/icon4-2-800x801.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 9634,
+            "dimensions": [
+                1000,
+                1001
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Glass-Parfume-Mockup2.png",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/Glass-Parfume-Mockup2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 169192,
+            "dimensions": [
+                600,
+                750
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Glass-Parfume-Mockup5.png",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/Glass-Parfume-Mockup5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 174499,
+            "dimensions": [
+                600,
+                750
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "ceramic-vase-made-in-the-shape-of-human-hand-with-J5SSSJ6.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/ceramic-vase-made-in-the-shape-of-human-hand-with-J5SSSJ6-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 130695,
+            "dimensions": [
+                1200,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-J5SSSJ6"
+        },
+        {
+            "filename": "matte-black-men-s-perfume-bottle-on-a-light-vertic-QYE88LA.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/matte-black-men-s-perfume-bottle-on-a-light-vertic-QYE88LA-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 116102,
+            "dimensions": [
+                1200,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-QYE88LA"
+        },
+        {
+            "filename": "asian-woman-in-red-roses-and-black-lace-6S9WXTZ.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/asian-woman-in-red-roses-and-black-lace-6S9WXTZ-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 198497,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-6S9WXTZ"
+        },
+        {
+            "filename": "glass-perfume-bottle-LLAF4TD.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/glass-perfume-bottle-LLAF4TD-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 127514,
+            "dimensions": [
+                1200,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-LLAF4TD"
+        },
+        {
+            "filename": "orange-phalaenopsis-orchid-plant-BXHUJBF.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/orange-phalaenopsis-orchid-plant-BXHUJBF-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 157208,
+            "dimensions": [
+                1200,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-BXHUJBF"
+        },
+        {
+            "filename": "embracing-her-natural-beauty-D2YAYKK.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/embracing-her-natural-beauty-D2YAYKK.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 42708,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-D2YAYKK"
+        },
+        {
+            "filename": "smiling-man-in-white-long-sleeve-tee-portrait-YNPWERG.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/smiling-man-in-white-long-sleeve-tee-portrait-YNPWERG.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 44028,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-YNPWERG"
+        },
+        {
+            "filename": "she-doesnt-give-much-away-PLMKHM6.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/she-doesnt-give-much-away-PLMKHM6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 49885,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-PLMKHM6"
+        },
+        {
+            "filename": "a-bottle-of-perfume-in-the-rays-of-the-sun-ZGZ39VT.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/a-bottle-of-perfume-in-the-rays-of-the-sun-ZGZ39VT-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 105279,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZGZ39VT"
+        },
+        {
+            "filename": "vertical-shot-of-a-successful-middle-aged-woman-at-D86XSZB.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/vertical-shot-of-a-successful-middle-aged-woman-at-D86XSZB-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 169167,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-D86XSZB"
+        },
+        {
+            "filename": "confident-and-relaxed-bearded-and-brunette-man-in-R9GDWR6.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/confident-and-relaxed-bearded-and-brunette-man-in-R9GDWR6-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 88780,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-R9GDWR6"
+        },
+        {
+            "filename": "surprised-excited-woman-on-a-green-background-che-YGU2LQZ.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/surprised-excited-woman-on-a-green-background-che-YGU2LQZ-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 93698,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-YGU2LQZ"
+        },
+        {
+            "filename": "arabian-businessman-holding-tray-with-papers-near-E9ZXF5U.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/arabian-businessman-holding-tray-with-papers-near-E9ZXF5U-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 128989,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-E9ZXF5U"
+        },
+        {
+            "filename": "face-oil-on-white-background-with-shadows-RH2ZYLK.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/face-oil-on-white-background-with-shadows-RH2ZYLK-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 86711,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-RH2ZYLK"
+        },
+        {
+            "filename": "Glass-Parfume-Mockup9.png",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/Glass-Parfume-Mockup9.png",
+            "templates": [
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 174422,
+            "dimensions": [
+                600,
+                750
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Glass-Parfume-Mockup4.png",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/Glass-Parfume-Mockup4.png",
+            "templates": [
+                {
+                    "source": "templates\/products.json",
+                    "name": "Products"
+                }
+            ],
+            "filesize": 166227,
+            "dimensions": [
+                600,
+                750
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "pexels-alexandra-irimia-756152853-26600131.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/pexels-alexandra-irimia-756152853-26600131-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 144901,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-6152853"
+        },
+        {
+            "filename": "portrait-young-beautiful-woman-on-black-backgroun-EC2UMWT.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/portrait-young-beautiful-woman-on-black-backgroun-EC2UMWT-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 84065,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-EC2UMWT"
+        },
+        {
+            "filename": "portrait-of-happy-african-american-man-looking-at-KY33EHT.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/portrait-of-happy-african-american-man-looking-at-KY33EHT-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 89409,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-KY33EHT"
+        },
+        {
+            "filename": "elegant-young-woman-portrait-XSR9PFA.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/elegant-young-woman-portrait-XSR9PFA-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 112565,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-XSR9PFA"
+        },
+        {
+            "filename": "portrait-of-positive-glad-ginger-young-female-has-DFTL64Z.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/portrait-of-positive-glad-ginger-young-female-has-DFTL64Z-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 83329,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-DFTL64Z"
+        },
+        {
+            "filename": "portrait-of-mature-man-with-grey-hair-and-stubble-N2FETGY.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/portrait-of-mature-man-with-grey-hair-and-stubble-N2FETGY-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 103662,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-N2FETGY"
+        },
+        {
+            "filename": "close-up-portrait-of-young-businesswoman-outdoors-5PRP7CF.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/close-up-portrait-of-young-businesswoman-outdoors-5PRP7CF-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 98682,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-5PRP7CF"
+        },
+        {
+            "filename": "happy-young-asian-businesswoman-crossing-her-arms-JBXKPEN.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/happy-young-asian-businesswoman-crossing-her-arms-JBXKPEN-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 142116,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-JBXKPEN"
+        },
+        {
+            "filename": "handsome-businessman-in-glasses-looking-at-camera-26AAVKG.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/handsome-businessman-in-glasses-looking-at-camera-26AAVKG-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 130283,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-26AAVKG"
+        },
+        {
+            "filename": "portrait-of-young-multiracial-man-in-office-DBXGRPQ.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/portrait-of-young-multiracial-man-in-office-DBXGRPQ-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 145220,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-DBXGRPQ"
+        },
+        {
+            "filename": "young-confident-businessman-in-smart-casualwear-an-H4H2ZPF.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/young-confident-businessman-in-smart-casualwear-an-H4H2ZPF-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 159382,
+            "dimensions": [
+                1000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-H4H2ZPF"
+        },
+        {
+            "filename": "lera-ginzburg-N8WxMVijPKw-unsplash.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/lera-ginzburg-N8WxMVijPKw-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 199775,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/unsplash.com\/photos\/N8WxMVijPKw"
+        },
+        {
+            "filename": "elegant-perfume-bottle-bathed-in-sunlight-on-a-woo-RY5XSAK.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/elegant-perfume-bottle-bathed-in-sunlight-on-a-woo-RY5XSAK-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 224184,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-RY5XSAK"
+        },
+        {
+            "filename": "consultant-helping-customer-to-choose-cream-JV94QDL.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/consultant-helping-customer-to-choose-cream-JV94QDL-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 156676,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-JV94QDL"
+        },
+        {
+            "filename": "young-african-american-female-consumer-choosing-be-RSSDT8X.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/young-african-american-female-consumer-choosing-be-RSSDT8X-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 116590,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-RSSDT8X"
+        },
+        {
+            "filename": "young-woman-sprinkles-perfume-on-her-wrist-perfum-2E6YP27.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/young-woman-sprinkles-perfume-on-her-wrist-perfum-2E6YP27-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 140100,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-2E6YP27"
+        },
+        {
+            "filename": "a-cloud-of-perfume-drops-flies-onto-the-neck-of-a-24QFPUV.jpg",
+            "thumbnail_url": "https:\/\/askproject.net\/aurra\/wp-content\/uploads\/sites\/209\/2024\/11\/a-cloud-of-perfume-drops-flies-onto-the-neck-of-a-24QFPUV-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 142227,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-24QFPUV"
+        }
+    ]
+}

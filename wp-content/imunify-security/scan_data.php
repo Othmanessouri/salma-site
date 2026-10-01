@@ -1,0 +1,5 @@
+<?php
+if ( ! defined( 'WPINC' ) ) {
+	exit;
+}
+return json_decode( '{"lastScanTimestamp": 1790735770, "nextScanTimestamp": 1790733600.0, "username": "evoindus", "malware": [], "config": {"MALWARE_SCANNING": {"enable_scan_cpanel": true, "default_action": "cleanup"}, "PROACTIVE_DEFENCE": {"blamer": true}}, "license": {"status": true, "expiration": null, "user_limit": 2147483647, "id": "SS0DU18wLJhPobLN", "user_count": 494, "message": "", "license_type": "imunify360", "upgrade_url": null, "upgrade_url_360": null, "redirect_url": "https://cln.cloudlinux.com/console/imunify360/servers/SS0DU18wLJhPobLN/products/IM_UN/convert", "eligible_for_imunify_patch": false}, "versions": {"imunify-core": "8.14.0-1.x86_64", "imunify360-firewall": "8.14.0-1.x86_64", "imunify-antivirus": "8.8.6-4.x86_64", "imunify-ui": "8.13.2-1.noarch"}}', true );
